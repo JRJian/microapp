@@ -13,6 +13,7 @@
     "freeProMinCode": 70,
     "eventEntryEnabeldQuery": "< 9",
     "eventExchangeEnabeldQuery": "< 9",
+    "networkTimeout": 10,
     "freeProExpiredMonth": 3,
     "eventDisabledRegions": "",
     "ua": {
