@@ -12,7 +12,7 @@
     "goodVersionMinCode": 1000,
     "freeProMinCode": 70,
     "eventEntryEnabeldQuery": "not in (8)",
-    "eventExchangeEnabeldQuery": "not in (8)",
+    "eventExchangeEnabeldQuery": ">=8",
     "freeProExpiredMonth": 3,
     "eventDisabledRegions": "",
     "ua": {
