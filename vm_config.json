@@ -11,8 +11,8 @@
     "launchAlertMaxCode": 87,
     "goodVersionMinCode": 1000,
     "freeProMinCode": 70,
-    "eventEntryEnabeldQuery": "<9",
-    "eventExchangeEnabeldQuery": "<9",
+    "eventEntryEnabeldQuery": "< 9",
+    "eventExchangeEnabeldQuery": "< 9",
     "freeProExpiredMonth": 3,
     "eventDisabledRegions": "",
     "ua": {
