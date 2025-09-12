@@ -18,6 +18,38 @@
     "eventDisabledRegions": "",
     "ua": {
         "ipad": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"
+    },
+    "ads": {
+    	"appOpen": {
+    		"enabled": true,
+    		"coldStartCountOfDay": 2,
+    		"refreshIntervalInMinutes": 20,
+    		"rewardedTimeInMinutes": 120
+    	},
+    	"native": {
+    		"enabled": true,
+    		"coldStartCountOfDay": 0,
+    		"refreshIntervalInMinutes": 0,
+    		"rewardedTimeInMinutes": 0
+    	},
+    	"rewarded": {
+    		"enabled": true,
+    		"coldStartCountOfDay": 2,
+    		"refreshIntervalInMinutes": 0,
+    		"rewardedTimeInMinutes": 120
+    	},
+    	"banner": {
+    		"enabled": true,
+    		"coldStartCountOfDay": 0,
+    		"refreshIntervalInMinutes": 0,
+    		"rewardedTimeInMinutes": 0
+    	},
+    	"mrec": {
+    		"enabled": true,
+    		"coldStartCountOfDay": 0,
+    		"refreshIntervalInMinutes": 0,
+    		"rewardedTimeInMinutes": 0
+    	}
     }
 }
 
