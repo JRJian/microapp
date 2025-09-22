@@ -4,16 +4,82 @@
     "ad_action_watch_reward_ad" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ansehen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch Now"
+            "value" : "Watch"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regarder"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "視聴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시청"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tonton"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assistir"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assistir"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assistir"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "立即观看"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "觀看"
           }
         }
       }
@@ -21,10 +87,70 @@
     "ad_idfa_alert_continue" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weiter"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuer"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "続ける"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계속"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teruskan"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
           }
         },
         "zh-Hans" : {
@@ -32,22 +158,94 @@
             "state" : "translated",
             "value" : "继续"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續"
+          }
         }
       }
     },
     "ad_idfa_alert_message" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Werbung unterstützt unser Geschäft. Tippen Sie im nächsten Bildschirm auf „Zulassen“, um uns die Erlaubnis zu geben, relevantere Anzeigen für Sie anzuzeigen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ads help support our business. Tap Allow on the next screen to give permission to show ads that are more\nrelevant to you."
+            "value" : "Ads help support our business. Tap ‘Allow’ on the next screen to give permission to show ads that are more relevant to you."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los anuncios ayudan a mantener nuestro negocio. Toque en “Permitir” en la siguiente pantalla para darnos permiso de mostrarle anuncios más relevantes."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los anuncios nos ayudan a mantenernos. Pulsa “Permitir” en la siguiente pantalla para autorizar anuncios más relevantes para ti."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les publicités nous aident à soutenir notre activité. Appuyez sur « Autoriser » à l’écran suivant pour nous permettre d’afficher des annonces plus pertinentes pour vous."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告は私たちのサービスを支えています。次の画面で「許可」をタップすると、より関連性の高い広告を表示できるようになります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "광고는 저희 비즈니스를 지원합니다. 다음 화면에서 ‘허용’을 눌러 더 관련성 높은 광고가 표시되도록 권한을 주세요."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iklan membantu menyokong perniagaan kami. Ketik ‘Benarkan’ pada skrin seterusnya untuk memberikan kebenaran bagi menunjukkan iklan yang lebih relevan kepada anda."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os anúncios ajudam a apoiar o nosso negócio. Toque em “Permitir” no ecrã seguinte para dar autorização para mostrar anúncios mais relevantes para si."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os anúncios ajudam a sustentar nosso negócio. Toque em “Permitir” na próxima tela para autorizar a exibição de anúncios mais relevantes para você."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os anúncios ajudam a apoiar o nosso negócio. Toque em “Permitir” no ecrã seguinte para dar autorização para mostrar anúncios mais relevantes para si."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "帮助我们"
+            "value" : "广告有助于支持我们的业务。在下一个界面点击“允许”，即可授权我们向您展示更相关的广告。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "廣告能幫助我們維持運營。在下一個畫面點擊「允許」，即可授權我們向您展示更相關的廣告。"
           }
         }
       }
@@ -55,16 +253,82 @@
     "ad_idfa_alert_title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unsere App möchte für Sie kostenlos bleiben"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Our app wants to stay free for you"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuestra app quiere seguir siendo gratuita para ti"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuestra app quiere seguir siendo gratis para ti"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notre application souhaite rester gratuite pour vous"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリを無料で使い続けていただくために"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저희 앱은 여러분께 무료로 제공되길 원합니다"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplikasi kami ingin kekal percuma untuk anda"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A nossa aplicação quer continuar gratuita para si"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nosso app quer continuar gratuito para você"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A nossa aplicação quer continuar gratuita para si"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "免费使用"
+            "value" : "我们的应用希望为您保持免费"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們的應用希望能持續為您免費提供服務"
           }
         }
       }
@@ -72,16 +336,82 @@
     "ad_message_watch_reward_ad" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schau dir ein kurzes Video an und erhalte 2 Stunden Vibe Music Premium kostenlos!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Watch a short video\r\nto get 2 hours of\r\nVibe Music Premium for free!"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mira un video corto y obtén 2 horas de Vibe Music Premium gratis."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mira un video corto y recibe 2 horas de Vibe Music Premium ¡totalmente gratis!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regardez une courte vidéo pour obtenir 2 heures de Vibe Music Premium gratuitement !"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "短い動画を視聴して、Vibe Music Premium を2時間無料でお楽しみください！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "짧은 영상을 시청하고 Vibe Music Premium 2시간 무료 이용하세요!"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tonton video pendek untuk dapatkan 2 jam Vibe Music Premium secara percuma!"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veja um vídeo curto e receba 2 horas de Vibe Music Premium grátis!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assista a um vídeo curto e ganhe 2 horas de Vibe Music Premium grátis!"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veja um vídeo curto e receba 2 horas de Vibe Music Premium grátis!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "观看短视频\n即可免费获得2h\nVibe Music Premium!"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "觀看短片，即可免費獲得 2 小時 Vibe Music Premium！"
           }
         }
       }
