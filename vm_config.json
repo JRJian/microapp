@@ -20,10 +20,10 @@
         "ipad": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"
     },
     "ads": {
-        "afterInstalledInDays": 1,
+        "afterInstalledInDays": 0,
     	"appOpen": {
     		"enabled": true,
-    		"coldStartCountOfDay": 2,
+    		"coldStartCountOfDay": 0,
     		"refreshIntervalInMinutes": 20,
     		"rewardedTimeInMinutes": 120
     	},
@@ -35,7 +35,7 @@
     	},
     	"rewarded": {
     		"enabled": true,
-    		"coldStartCountOfDay": 2,
+    		"coldStartCountOfDay": 0,
     		"refreshIntervalInMinutes": 0,
     		"rewardedTimeInMinutes": 120
     	},
