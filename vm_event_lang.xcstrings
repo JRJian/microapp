@@ -1,6 +1,40 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "ad_action_watch_reward_ad" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch Now"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "立即观看"
+          }
+        }
+      }
+    },
+    "ad_message_watch_reward_ad" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch a short video\r\nto get 2 hours of\r\nVibe Music Premium for free!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "观看短视频\n即可免费获得2h\nVibe Music Premium!"
+          }
+        }
+      }
+    },
     "event_alert_button_cancel" : {
       "extractionState" : "manual",
       "localizations" : {
