@@ -416,6 +416,40 @@
         }
       }
     },
+    "ad_reward_alert_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch a short video to get     2 hours of Pro for free!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "观看一段短视频立马解锁2小时畅听！"
+          }
+        }
+      }
+    },
+    "ad_reward_alert_watch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch Now"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "观看"
+          }
+        }
+      }
+    },
     "event_alert_button_cancel" : {
       "extractionState" : "manual",
       "localizations" : {
