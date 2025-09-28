@@ -754,79 +754,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Hinweise：\n1. Jeder Nutzer darf nur einmal teilnehmen.\n2. Beiträge müssen öffentlich und dauerhaft zugänglich sein; gelöschte oder private Beiträge sind nicht teilnahmeberechtigt.\n3. Wenn du deinen Premium-Zugang nicht innerhalb von 10 Tagen nach Einreichung erhalten hast, kontaktiere uns gerne unter support@byteapps.tech – wir bitten um Verständnis bei eventuellen Verzögerungen.\n4. TubePod behält sich das Recht auf die endgültige Auslegung dieser Aktion vor."
+            "value" : "🛡 Hinweise：\n1. Jeder Nutzer kann nur einmal teilnehmen, und es kann nur ein Einlöscode innerhalb von 7 Tagen nach Veröffentlichung des Beitrags eingelöst werden. Nach 7 Tagen wird der Traffic automatisch ungültig.\n2. Beiträge müssen öffentlich und dauerhaft zugänglich sein; gelöschte oder private Beiträge sind nicht teilnahmeberechtigt.\n3. Wenn du deinen Premium-Zugang nicht innerhalb von 10 Tagen nach Einreichung erhalten hast, kontaktiere uns gerne unter support@byteapps.tech – wir bitten um Verständnis bei eventuellen Verzögerungen.\n4. TubePod behält sich das Recht auf die endgültige Auslegung dieser Aktion vor."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notes:\n1. Each user may participate only once.\n2. Posts must be public and remain accessible; deleted or private posts will not be eligible.\n3. If you haven’t received your Premium code within 10 days after submission, feel free to contact us at support@byteapps.tech — we appreciate your understanding in case of any delays.\n4. TubePod reserves the right of final interpretation for this campaign."
+            "value" : "🛡 Notes:\n1. Each user can only participate once, and only one redemption code can be claimed within 7 days of the post being published. Traffic generated after 7 days will be automatically voided.\n2. Posts must be public and remain accessible; deleted or private posts will not be eligible.\n3. If you haven’t received your Premium code within 10 days after submission, feel free to contact us at support@byteapps.tech — we appreciate your understanding in case of any delays.\n4. TubePod reserves the right of final interpretation for this campaign."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada usuario puede participar solo una vez.\n2. Las publicaciones deben ser públicas y permanecer accesibles; las publicaciones eliminadas o privadas no serán válidas.\n3. Si no recibes tu código Premium dentro de los 10 días posteriores al envío, no dudes en escribirnos a support@byteapps.tech — agradecemos tu comprensión en caso de retrasos.\n4. TubePod se reserva el derecho de interpretación final de esta campaña."
+            "value" : "🛡 Notas\n1. Cada usuario solo puede participar una vez, y solo se puede reclamar un código de canje dentro de los 7 días posteriores a la publicación de la publicación. El tráfico generado después de 7 días se anulará automáticamente.\n2. Las publicaciones deben ser públicas y permanecer accesibles; las publicaciones eliminadas o privadas no serán válidas.\n3. Si no recibes tu código Premium dentro de los 10 días posteriores al envío, no dudes en escribirnos a support@byteapps.tech — agradecemos tu comprensión en caso de retrasos.\n4. TubePod se reserva el derecho de interpretación final de esta campaña."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada usuario puede participar solo una vez.\n2. Las publicaciones deben ser públicas y permanecer accesibles; las publicaciones eliminadas o privadas no serán válidas.\n3. Si no recibes tu código Premium dentro de los 10 días posteriores al envío, no dudes en escribirnos a support@byteapps.tech — agradecemos tu comprensión en caso de retrasos.\n4. TubePod se reserva el derecho de interpretación final de esta campaña."
+            "value" : "🛡 Notas\n1. Cada usuario solo puede participar una vez, y solo se puede reclamar un código de canje dentro de los 7 días posteriores a la publicación de la publicación. El tráfico generado después de 7 días se anulará automáticamente.\n2. Las publicaciones deben ser públicas y permanecer accesibles; las publicaciones eliminadas o privadas no serán válidas.\n3. Si no recibes tu código Premium dentro de los 10 días posteriores al envío, no dudes en escribirnos a support@byteapps.tech — agradecemos tu comprensión en caso de retrasos.\n4. TubePod se reserva el derecho de interpretación final de esta campaña."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Remarques：\n1. Chaque utilisateur ne peut participer qu’une seule fois.\n2. Les publications doivent être publiques et rester accessibles ; les publications supprimées ou privées ne seront pas prises en compte.\n3. Si vous ne recevez pas votre accès Premium dans les 10 jours suivant votre soumission, n’hésitez pas à nous contacter à l’adresse support@byteapps.tech — merci pour votre compréhension en cas de retard éventuel.\n4. TubePod se réserve le droit d’interprétation finale de cette campagne."
+            "value" : "🛡 Remarques：\n1. Chaque utilisateur ne peut participer qu'une seule fois, et un seul code de remboursement peut être réclamé dans les 7 jours suivant la publication du post. Le trafic généré après 7 jours sera automatiquement annulé.\n2. Les publications doivent être publiques et rester accessibles ; les publications supprimées ou privées ne seront pas prises en compte.\n3. Si vous ne recevez pas votre accès Premium dans les 10 jours suivant votre soumission, n’hésitez pas à nous contacter à l’adresse support@byteapps.tech — merci pour votre compréhension en cas de retard éventuel.\n4. TubePod se réserve le droit d’interprétation finale de cette campagne."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 注意事項\n1. 各ユーザーは一度のみ参加できます。\n2. 投稿は公開設定である必要があり、削除または非公開にされた投稿は対象外となります。\n3. 提出から10日以内にPremiumコードが届かない場合は、support@byteapps.tech までご連絡ください。遅延が発生する可能性があることをご理解いただけますと幸いです。\n4. 本キャンペーンの最終的な解釈権はTubePodにあります。"
+            "value" : "🛡 注意事項\n1. 各ユーザーは1回のみ参加可能で、投稿から7日以内に1つの引換コードのみ受け取れます。7日を過ぎたアクセスは自動的に無効となります。\n2. 投稿は公開設定である必要があり、削除または非公開にされた投稿は対象外となります。\n3. 提出から10日以内にPremiumコードが届かない場合は、support@byteapps.tech までご連絡ください。遅延が発生する可能性があることをご理解いただけますと幸いです。\n4. 本キャンペーンの最終的な解釈権はTubePodにあります。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 안내사항\n1. 각 사용자는 한 번만 참여할 수 있습니다.\n2. 게시물은 공개되어야 하며, 삭제되거나 비공개로 설정된 게시물은 인정되지 않습니다.\n3. 제출 후 10일 이내에 Premium 코드를 받지 못한 경우, support@byteapps.tech 로 문의해 주세요. 처리 지연이 있을 수 있는 점 양해 부탁드립니다.\n4. 본 이벤트에 대한 최종 해석 권한은 TubePod에 있습니다."
+            "value" : "🛡 안내사항\n1. 각 사용자는 한 번만 참여할 수 있으며, 게시물 게시 후 7일 이내에 교환 코드를 한 번만 받을 수 있습니다. 7일 이후의 트래픽은 자동으로 무효 처리됩니다.\n2. 게시물은 공개되어야 하며, 삭제되거나 비공개로 설정된 게시물은 인정되지 않습니다.\n3. 제출 후 10일 이내에 Premium 코드를 받지 못한 경우, support@byteapps.tech 로 문의해 주세요. 처리 지연이 있을 수 있는 점 양해 부탁드립니다.\n4. 본 이벤트에 대한 최종 해석 권한은 TubePod에 있습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Nota\n1. Setiap pengguna hanya boleh menyertai sekali sahaja.\n2. Siaran mesti ditetapkan sebagai umum dan kekal boleh diakses; siaran yang dipadam atau ditetapkan sebagai peribadi tidak akan diterima.\n3. Jika anda belum menerima kod Premium dalam masa 10 hari selepas penyerahan, sila hubungi kami di support@byteapps.tech — kami menghargai pemahaman anda sekiranya berlaku kelewatan.\n4. TubePod berhak membuat tafsiran akhir bagi kempen ini."
+            "value" : "🛡 Nota\n1. Setiap pengguna hanya boleh menyertai sekali sahaja, dan hanya satu kod penebusan boleh dituntut dalam tempoh 7 hari selepas siaran diterbitkan. Trafik selepas 7 hari akan terbatal secara automatik.\n2. Siaran mesti ditetapkan sebagai umum dan kekal boleh diakses; siaran yang dipadam atau ditetapkan sebagai peribadi tidak akan diterima.\n3. Jika anda belum menerima kod Premium dalam masa 10 hari selepas penyerahan, sila hubungi kami di support@byteapps.tech — kami menghargai pemahaman anda sekiranya berlaku kelewatan.\n4. TubePod berhak membuat tafsiran akhir bagi kempen ini."
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada utilizador pode participar apenas uma vez.\n2. As publicações devem ser públicas e permanecer acessíveis; publicações excluídas ou privadas não serão elegíveis.\n3. Se não receber o seu código Premium dentro de 10 dias após a submissão, entre em contacto connosco através de support@byteapps.tech — agradecemos a sua compreensão em caso de atrasos.\n4. A TubePod reserva-se o direito de interpretação final desta campanha."
+            "value" : "🛡 Notas\n1. Cada usuário só pode participar uma vez, e apenas um código de resgate pode ser reivindicado dentro de 7 dias após a publicação do post. O tráfego gerado após 7 dias será automaticamente anulado.\n2. As publicações devem ser públicas e permanecer acessíveis; publicações excluídas ou privadas não serão elegíveis.\n3. Se não receber o seu código Premium dentro de 10 dias após a submissão, entre em contacto connosco através de support@byteapps.tech — agradecemos a sua compreensão em caso de atrasos.\n4. A TubePod reserva-se o direito de interpretação final desta campanha."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada utilizador pode participar apenas uma vez.\n2. As publicações devem ser públicas e permanecer acessíveis; publicações excluídas ou privadas não serão elegíveis.\n3. Se não receber o seu código Premium dentro de 10 dias após a submissão, entre em contacto connosco através de support@byteapps.tech — agradecemos a sua compreensão em caso de atrasos.\n4. A TubePod reserva-se o direito de interpretação final desta campanha."
+            "value" : "🛡 Notas\n1. Cada usuário só pode participar uma vez, e apenas um código de resgate pode ser reivindicado dentro de 7 dias após a publicação do post. O tráfego gerado após 7 dias será automaticamente anulado.\n2. As publicações devem ser públicas e permanecer acessíveis; publicações excluídas ou privadas não serão elegíveis.\n3. Se não receber o seu código Premium dentro de 10 dias após a submissão, entre em contacto connosco através de support@byteapps.tech — agradecemos a sua compreensão em caso de atrasos.\n4. A TubePod reserva-se o direito de interpretação final desta campanha."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada utilizador pode participar apenas uma vez.\n2. As publicações devem ser públicas e permanecer acessíveis; publicações excluídas ou privadas não serão elegíveis.\n3. Se não receber o seu código Premium dentro de 10 dias após a submissão, entre em contacto connosco através de support@byteapps.tech — agradecemos a sua compreensão em caso de atrasos.\n4. A TubePod reserva-se o direito de interpretação final desta campanha."
+            "value" : "🛡 Notas\n1. Cada usuário só pode participar uma vez, e apenas um código de resgate pode ser reivindicado dentro de 7 dias após a publicação do post. O tráfego gerado após 7 dias será automaticamente anulado.\n2. As publicações devem ser públicas e permanecer acessíveis; publicações excluídas ou privadas não serão elegíveis.\n3. Se não receber o seu código Premium dentro de 10 dias após a submissão, entre em contacto connosco através de support@byteapps.tech — agradecemos a sua compreensão em caso de atrasos.\n4. A TubePod reserva-se o direito de interpretação final desta campanha."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "🛡 温馨提示：\n1. 每位用户仅限参与一次\n2. 帖子需公开可见，不能删除或设为仅自己可见\n3. 若您提交成功后超过 10 天仍未收到兑换码，可通过邮件联系客服（support@byteapps.tech）进行查询，工作中难免有疏漏，感谢理解与支持\n4. 活动最终解释权归 TubePod 所有"
+            "state" : "needs_review",
+            "value" : "🛡 温馨提示：\n1. 每位用户仅限参与一次，且自帖子发布后7天内只能领取1次兑换码，超过7天后的流量将自动作废。\n2. 帖子需公开可见，不能删除或设为仅自己可见\n3. 若您提交成功后超过 10 天仍未收到兑换码，可通过邮件联系客服（support@byteapps.tech）进行查询，工作中难免有疏漏，感谢理解与支持\n4. 活动最终解释权归 TubePod 所有"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 溫馨提示：\n1. 每位用戶僅限參與一次\n2. 貼文必須設為公開，且不得刪除或設為僅自己可見\n3. 若您提交成功後超過 10 天仍未收到會員資格，可來信聯繫客服（support@byteapps.tech）查詢，工作中難免有所疏漏，敬請見諒與理解\n4. 活動最終解釋權歸 TubePod 所有"
+            "value" : "🛡 溫馨提示：\n1. 每位用戶僅限參與一次，且自帖子發佈後7天內只能領取1次兌換碼，超過7天後的流量將自動作廢。\n2. 貼文必須設為公開，且不得刪除或設為僅自己可見\n3. 若您提交成功後超過 10 天仍未收到會員資格，可來信聯繫客服（support@byteapps.tech）查詢，工作中難免有所疏漏，敬請見諒與理解\n4. 活動最終解釋權歸 TubePod 所有"
           }
         }
       }
@@ -1086,79 +1086,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teile deine TubePod-Erfahrung in sozialen Medien. Nach Genehmigung erhältst du TubePod Premium kostenlos (Dauer des Abonnements hängt von der Beliebtheit des Inhalts ab, bis hin zur lebenslangen Nutzung).\n\n📌 Belohnungsregeln:\n🎁 Beitrag erfüllt die Anforderungen → 1 Monat Premium\n🔥 50+ Likes → 1 Jahr Premium\n🏆 100+ Likes → Lebenslanges Premium"
+            "value" : "Teile deine TubePod-Erfahrung in sozialen Medien. Nach Genehmigung erhältst du TubePod Premium kostenlos (Dauer des Abonnements hängt von der Beliebtheit des Inhalts ab, bis hin zur lebenslangen Nutzung).\n\n📌 Belohnungsregeln:\n🎁 Beitrag erfüllt die Anforderungen → 1 Monat Premium\n🔥 Likes ≥ 50 und Aufrufe ≥ 3000 → 1 Jahr Premium\n🏆 Likes ≥ 100 und Aufrufe ≥ 7000 → Lebenslang Premium"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Share your TubePod experience on social media. Once approved, you'll receive TubePod Premium for free (membership duration depends on content popularity, up to lifetime).\n\n📌 Reward Rules:\n🎁 Post meets requirements → 1-month Premium\n🔥 50+ likes → 1-year Premium\n🏆 100+ likes → Lifetime Premium"
+            "value" : "Share your TubePod experience on social media. Once approved, you'll receive TubePod Premium for free (membership duration depends on content popularity, up to lifetime).\n\n📌 Reward Rules:\n🎁 Post meets requirements → 1-month Premium\n🔥 Likes ≥ 50 and views ≥ 3000 → Get 1 year Premium\n🏆 Likes ≥ 100 and views ≥ 7000 → Get Lifetime Premium"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comparte tu experiencia con TubePod en redes sociales. Una vez aprobada, recibirás TubePod Premium gratis (la duración de la membresía depende de la popularidad del contenido, hasta membresía de por vida).\n\n📌 Reglas de recompensa:\n🎁 Publicación que cumpla los requisitos → 1 mes de Premium\n🔥 50+ “me gusta” → 1 año de Premium\n🏆 100+ “me gusta” → Premium de por vida"
+            "value" : "Comparte tu experiencia con TubePod en redes sociales. Una vez aprobada, recibirás TubePod Premium gratis (la duración de la membresía depende de la popularidad del contenido, hasta membresía de por vida).\n\n📌 Reglas de recompensa:\n🎁 Publicación que cumpla los requisitos → 1 mes de Premium\n🔥 Me gusta ≥ 50 y vistas ≥ 3000 → 1 año Premium\n🏆 Me gusta ≥ 100 y vistas ≥ 7000 → Premium de por vida"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comparte tu experiencia con TubePod en redes sociales. Una vez aprobada, recibirás TubePod Premium gratis (la duración de la membresía depende de la popularidad del contenido, hasta membresía de por vida).\n\n📌 Reglas de recompensa:\n🎁 Publicación que cumpla los requisitos → 1 mes de Premium\n🔥 50+ “me gusta” → 1 año de Premium\n🏆 100+ “me gusta” → Premium de por vida"
+            "value" : "Comparte tu experiencia con TubePod en redes sociales. Una vez aprobada, recibirás TubePod Premium gratis (la duración de la membresía depende de la popularidad del contenido, hasta membresía de por vida).\n\n📌 Reglas de recompensa:\n🎁 Publicación que cumpla los requisitos → 1 mes de Premium\n🔥 Me gusta ≥ 50 y vistas ≥ 3000 → 1 año Premium\n🏆 Me gusta ≥ 100 y vistas ≥ 7000 → Premium de por vida"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partagez votre expérience avec TubePod sur les réseaux sociaux. Une fois votre publication approuvée, vous recevrez gratuitement l’abonnement TubePod Premium (la durée dépend de la popularité de votre contenu, jusqu’à un accès à vie).\n\n📌 Règles de récompense：\n🎁 Publication conforme → 1 mois d’abonnement Premium\n🔥 50+ mentions “J’aime” → 1 an d’abonnement Premium\n🏆 100+ mentions “J’aime” → Abonnement Premium à vie"
+            "value" : "Partagez votre expérience avec TubePod sur les réseaux sociaux. Une fois votre publication approuvée, vous recevrez gratuitement l’abonnement TubePod Premium (la durée dépend de la popularité de votre contenu, jusqu’à un accès à vie).\n\n📌 Règles de récompense：\n🎁 Publication conforme → 1 mois d’abonnement Premium\n🔥 Likes ≥ 50 et vues ≥ 3000 → 1 an Premium offert\n🏆 Likes ≥ 100 et vues ≥ 7000 → Premium à vie offert"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "SNSでTubePodの体験を共有すると、審査に通過した場合、TubePod Premiumを無料で獲得できます（会員期間は投稿の人気度に応じて、最長で永久会員となります）。\n\n📌 報酬ルール：\n🎁 条件を満たした投稿 → 1ヶ月のPremium\n🔥 いいね50件以上 → 1年のPremium\n🏆 いいね100件以上 → 永久Premium"
+            "value" : "SNSでTubePodの体験を共有すると、審査に通過した場合、TubePod Premiumを無料で獲得できます（会員期間は投稿の人気度に応じて、最長で永久会員となります）。\n\n📌 報酬ルール：\n🎁 条件を満たした投稿 → 1ヶ月のPremium\n🔥 いいね ≥ 50 かつ閲覧数 ≥ 3000 → 1年間のPremium\n🏆 いいね ≥ 100 かつ閲覧数 ≥ 7000 → 生涯Premium"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "TubePod 사용 후기를 소셜미디어에 공유하세요. 승인되면 TubePod Premium을 무료로 받을 수 있습니다 (회원 기간은 콘텐츠 인기 수준에 따라 다르며 최대 평생 이용 가능).\n\n📌 보상 규칙:\n🎁 기준을 충족한 게시물 → 1개월 Premium\n🔥 좋아요 50개 이상 또는 → 1년 Premium\n🏆 좋아요 100개 이상 또는 → 평생 Premium"
+            "value" : "TubePod 사용 후기를 소셜미디어에 공유하세요. 승인되면 TubePod Premium을 무료로 받을 수 있습니다 (회원 기간은 콘텐츠 인기 수준에 따라 다르며 최대 평생 이용 가능).\n\n📌 보상 규칙:\n🎁 기준을 충족한 게시물 → 1개월 Premium\n🔥 좋아요 ≥ 50 및 조회수 ≥ 3000 → 1년 Premium 증정\n🏆 좋아요 ≥ 100 및 조회수 ≥ 7000 → 평생 Premium 증정"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kongsikan pengalaman anda menggunakan TubePod di media sosial. Setelah diluluskan, anda akan menerima TubePod Premium secara percuma (tempoh keahlian bergantung pada populariti kandungan, sehingga keahlian seumur hidup).\n\n📌 Peraturan Ganjaran:\n🎁 Siaran memenuhi syarat → Premium 1 bulan\n🔥 50+ suka → Premium 1 tahun\n🏆 100+ suka → Premium Seumur Hidup"
+            "value" : "Kongsikan pengalaman anda menggunakan TubePod di media sosial. Setelah diluluskan, anda akan menerima TubePod Premium secara percuma (tempoh keahlian bergantung pada populariti kandungan, sehingga keahlian seumur hidup).\n\n📌 Peraturan Ganjaran:\n🎁 Siaran memenuhi syarat → Premium 1 bulan\n🔥 Suka ≥ 50 dan tontonan ≥ 3000 → 1 tahun Premium\n🏆 Suka ≥ 100 dan tontonan ≥ 7000 → Premium Seumur Hidup"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe sua experiência com o TubePod nas redes sociais. Após aprovação, você receberá o TubePod Premium gratuitamente (a duração da assinatura depende da popularidade do conteúdo, podendo chegar à vitalícia).\n\n📌 Regras de Recompensa:\n🎁 Publicação válida → 1 mês de Premium\n🔥 50+ curtidas → 1 ano de Premium\n🏆 100+ curtidas → Premium vitalício"
+            "value" : "Compartilhe sua experiência com o TubePod nas redes sociais. Após aprovação, você receberá o TubePod Premium gratuitamente (a duração da assinatura depende da popularidade do conteúdo, podendo chegar à vitalícia).\n\n📌 Regras de Recompensa:\n🎁 Publicação válida → 1 mês de Premium\n🔥  Curtidas ≥ 50 e visualizações ≥ 3000 → 1 ano de Premium\n🏆 Curtidas ≥ 100 e visualizações ≥ 7000 → Premium Vitalício"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe sua experiência com o TubePod nas redes sociais. Após aprovação, você receberá o TubePod Premium gratuitamente (a duração da assinatura depende da popularidade do conteúdo, podendo chegar à vitalícia).\n\n📌 Regras de Recompensa:\n🎁 Publicação válida → 1 mês de Premium\n🔥 50+ curtidas → 1 ano de Premium\n🏆 100+ curtidas → Premium vitalício"
+            "value" : "Compartilhe sua experiência com o TubePod nas redes sociais. Após aprovação, você receberá o TubePod Premium gratuitamente (a duração da assinatura depende da popularidade do conteúdo, podendo chegar à vitalícia).\n\n📌 Regras de Recompensa:\n🎁 Publicação válida → 1 mês de Premium\n🔥  Curtidas ≥ 50 e visualizações ≥ 3000 → 1 ano de Premium\n🏆 Curtidas ≥ 100 e visualizações ≥ 7000 → Premium Vitalício"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe sua experiência com o TubePod nas redes sociais. Após aprovação, você receberá o TubePod Premium gratuitamente (a duração da assinatura depende da popularidade do conteúdo, podendo chegar à vitalícia).\n\n📌 Regras de Recompensa:\n🎁 Publicação válida → 1 mês de Premium\n🔥 50+ curtidas → 1 ano de Premium\n🏆 100+ curtidas → Premium vitalício"
+            "value" : "Compartilhe sua experiência com o TubePod nas redes sociais. Após aprovação, você receberá o TubePod Premium gratuitamente (a duração da assinatura depende da popularidade do conteúdo, podendo chegar à vitalícia).\n\n📌 Regras de Recompensa:\n🎁 Publicação válida → 1 mês de Premium\n🔥  Curtidas ≥ 50 e visualizações ≥ 3000 → 1 ano de Premium\n🏆 Curtidas ≥ 100 e visualizações ≥ 7000 → Premium Vitalício"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在社交平台分享你的 TubePod 使用体验，通过审核后，即可获得免费 TubePod Premium（会员时长视内容热度而定，最长可达终身）！\n\n📌 奖励规则说明：\n🎁 成功发布符合要求的帖子 → 赠送 1个月会员\n🔥 点赞 ≥ 50 → 赠送 1年会员\n🏆 点赞 ≥ 100 → 赠送终身会员"
+            "value" : "在社交平台分享你的 TubePod 使用体验，通过审核后，即可获得免费 TubePod Premium（会员时长视内容热度而定，最长可达终身）！\n\n📌 奖励规则说明：\n🎁 成功发布符合要求的帖子 → 赠送 1个月会员\n🔥 点赞 ≥ 50 且view≥ 3000 → 赠送 1年会员 \n🏆 点赞 ≥ 100  且view≥ 7000  → 赠送终身会员"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在社交平台分享你的 TubePod 使用體驗，通過審核後，即可免費獲得 TubePod Premium（會員時長依內容熱度而定，最長可享終身會員）！\n\n📌 獎勵規則說明：\n🎁 成功發佈符合要求的貼文 → 贈送 1 個月會員\n🔥 按讚數 ≥ 50 → 贈送 1 年會員\n🏆 按讚數 ≥ 100 → 贈送 終身會員"
+            "value" : "在社交平台分享你的 TubePod 使用體驗，通過審核後，即可免費獲得 TubePod Premium（會員時長依內容熱度而定，最長可享終身會員）！\n\n📌 獎勵規則說明：\n🎁 成功發佈符合要求的貼文 → 贈送 1 個月會員\n🔥 點讚 ≥ 50 且 view ≥ 3000 → 贈送 1年會員 \n🏆 點讚 ≥ 100 且 view ≥ 7000 → 贈送終身會員"
           }
         }
       }
