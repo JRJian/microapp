@@ -22,7 +22,7 @@
     "ads": {
         "afterInstalledInDays": 0,
     	"appOpen": {
-    		"enabled": true,
+    		"enabled": false,
     		"coldStartCountOfDay": 0,
     		"refreshIntervalInMinutes": 20,
     		"rewardedTimeInMinutes": 120
