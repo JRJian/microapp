@@ -14,7 +14,7 @@
     "eventEntryEnabeldQuery": "not in (1130)",
     "freeProExpiredMonth": 3,
     "eventDisabledRegions": "",
-    "cacheAssetEnabled": 1,
+    "cacheAssetEnabled": 0,
     "cacheMaxFilesize": 30000000,
     "cacheMaxDur": 1200,
     "cacheExpiryHours": 7,
