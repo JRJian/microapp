@@ -81,6 +81,12 @@
             "state" : "translated",
             "value" : "觀看"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear Queue"
+          }
         }
       }
     },
