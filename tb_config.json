@@ -11,7 +11,7 @@
     "launchAlertMaxCode": 103,
     "goodVersionMinCode": 121,
     "freeProMinCode": 70,
-    "eventEntryEnabeldQuery": "not in (121)",
+    "eventEntryEnabeldQuery": "< 121",
     "freeProExpiredMonth": 3,
     "eventDisabledRegions": "",
     "cacheAssetEnabled": 0,
