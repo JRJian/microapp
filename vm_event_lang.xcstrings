@@ -2582,6 +2582,23 @@
         }
       }
     },
+    "preview_limit_action_step_0" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[ Get Premium ]"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费试听已结束"
+          }
+        }
+      }
+    },
     "preview_limit_action_step_1" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2605,12 +2622,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "[ Get Premium ]"
+            "value" : "Unlock Full Songs"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "获取会员"
           }
         }
@@ -2622,18 +2639,18 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unlock Full Songs"
+            "value" : "[ Watch Video ]"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "畅享所有音乐"
           }
         }
       }
     },
-    "preview_limit_message_step_1" : {
+    "preview_limit_message_step_0" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -2645,6 +2662,23 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
+            "value" : "免费试听已结束"
+          }
+        }
+      }
+    },
+    "preview_limit_message_step_1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The basic plan includes a 90-second preview per song. Unlock the full experience with Premium. "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
             "value" : "您的免费试听时段已结束，开通 Pro 即可解除限制，畅享完整播放。"
           }
         }
@@ -2656,12 +2690,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The basic plan includes a 90-second preview per song. Unlock the full experience with Premium. "
+            "value" : "Don't let the music stop. Upgrade now for unlimited playback. "
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "免费版每首歌仅可试听 90 秒，开通 Premium 立即解锁完整歌曲。"
           }
         }
@@ -2673,13 +2707,30 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Don't let the music stop. Upgrade now for unlimited playback. "
+            "value" : "Watch a short video to unlock 2 hours of uninterrupted music. "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "别让音乐停下来！立即升级，畅听无限制。"
+          }
+        }
+      }
+    },
+    "preview_limit_title_step_0" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Free Session Ended"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "别让音乐停下来！立即升级，畅听无限制。"
+            "value" : "免费试听已结束"
           }
         }
       }
@@ -2690,12 +2741,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Free Session Ended "
+            "value" : "Preview Limit Reached "
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "免费试听已结束"
           }
         }
@@ -2707,12 +2758,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preview Limit Reached "
+            "value" : "Want to hear the rest? "
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "已达到试听限制"
           }
         }
@@ -2724,12 +2775,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Want to hear the rest? "
+            "value" : "Keep Listening for Free "
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "想听完整的吗？"
           }
         }
