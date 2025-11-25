@@ -2710,30 +2710,30 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You've enjoyed your free listening session. Upgrade to Pro to remove limits and unlock full playback. "
+            "value" : "Your free session has ended. Upgrade to Pro for unlimited listening."
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "आपका मुफ्त सुनने का सेशन समाप्त हो गया है। सीमाएँ हटाने और पूर्ण प्लेबैक अनलॉक करने के लिए Pro में अपग्रेड करें।"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sua sessão gratuita terminou. Faça upgrade para o Pro para remover os limites e liberar a reprodução completa."
+            "state" : "needs_review",
+            "value" : "Sua sessão gratuita acabou. Faça upgrade para Pro e ouça sem limites."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "您的免费试听已用完。升级到 Pro，解除所有限制，畅享完整播放。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "您的免費試聽已使用完畢。升級到 Pro，解除所有限制，享受完整播放。"
           }
         }
@@ -2757,7 +2757,7 @@
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Você atingiu o limite de 90 segundos de audição gratuita. Faça upgrade para o Premium para ouvir músicas completas."
+            "value" : " Você atingiu o limite de 90s. Faça upgrade para Premium para ouvir músicas completas."
           }
         },
         "zh-Hans" : {
@@ -2931,7 +2931,7 @@
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ouça a música completa de graça?"
+            "value" : "Quer ouvir músicas grátis?"
           }
         },
         "zh-Hans" : {
