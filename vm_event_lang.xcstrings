@@ -184,86 +184,86 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Werbung unterstützt unser Geschäft. Tippen Sie im nächsten Bildschirm auf „Zulassen“, um uns die Erlaubnis zu geben, relevantere Anzeigen für Sie anzuzeigen."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ads help support our business. Tap ‘Allow’ on the next screen to give permission to show ads that are more relevant to you."
+            "value" : "To do this, we request permission for ad-related access. Allowing or declining is entirely your choice and won’t affect your app experience."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Los anuncios ayudan a mantener nuestro negocio. Toque en “Permitir” en la siguiente pantalla para darnos permiso de mostrarle anuncios más relevantes."
           }
         },
         "es-419" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Los anuncios nos ayudan a mantenernos. Pulsa “Permitir” en la siguiente pantalla para autorizar anuncios más relevantes para ti."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Les publicités nous aident à soutenir notre activité. Appuyez sur « Autoriser » à l’écran suivant pour nous permettre d’afficher des annonces plus pertinentes pour vous."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "विज्ञापन हमारे व्यवसाय को समर्थन देते हैं। अधिक प्रासंगिक विज्ञापन दिखाने की अनुमति देने के लिए अगले स्क्रीन पर ‘Allow’ टैप करें।"
+            "value" : "इसके लिए हमें विज्ञापन-संबंधित अनुमति की आवश्यकता है। अनुमति देना या न देना पूरी तरह आपका निर्णय है और इससे ऐप के सामान्य उपयोग पर कोई प्रभाव नहीं पड़ेगा।"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "広告は私たちのサービスを支えています。次の画面で「許可」をタップすると、より関連性の高い広告を表示できるようになります。"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "광고는 저희 비즈니스를 지원합니다. 다음 화면에서 ‘허용’을 눌러 더 관련성 높은 광고가 표시되도록 권한을 주세요."
           }
         },
         "ms" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Iklan membantu menyokong perniagaan kami. Ketik ‘Benarkan’ pada skrin seterusnya untuk memberikan kebenaran bagi menunjukkan iklan yang lebih relevan kepada anda."
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Os anúncios ajudam a apoiar o nosso negócio. Toque em “Permitir” no ecrã seguinte para dar autorização para mostrar anúncios mais relevantes para si."
+            "value" : "Para isso, precisamos solicitar permissão relacionada a anúncios. Permitir ou não é totalmente sua escolha e não afetará o uso normal do aplicativo."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Os anúncios ajudam a sustentar nosso negócio. Toque em “Permitir” na próxima tela para autorizar a exibição de anúncios mais relevantes para você."
+            "value" : "Para isso, precisamos solicitar permissão relacionada a anúncios. Permitir ou não é totalmente sua escolha e não afetará o uso normal do aplicativo."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Os anúncios ajudam a apoiar o nosso negócio. Toque em “Permitir” no ecrã seguinte para dar autorização para mostrar anúncios mais relevantes para si."
+            "value" : "Para isso, precisamos solicitar permissão relacionada a anúncios. Permitir ou não é totalmente sua escolha e não afetará o uso normal do aplicativo."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "广告有助于支持我们的业务。在下一个界面点击“允许”，即可授权我们向您展示更相关的广告。"
+            "state" : "needs_review",
+            "value" : "为此，我们需要申请广告权限。是否授权由您决定，不会影响应用的正常使用。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "廣告能幫助我們維持運營。在下一個畫面點擊「允許」，即可授權我們向您展示更相關的廣告。"
+            "state" : "needs_review",
+            "value" : "為此，我們需要申請廣告權限。是否授權由您決定，不會影響應用的正常使用。"
           }
         }
       }
@@ -273,86 +273,86 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Unsere App möchte für Sie kostenlos bleiben"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Our app wants to stay free for you"
+            "value" : "We’d like to show you ads that better match your preferences."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Nuestra app quiere seguir siendo gratuita para ti"
           }
         },
         "es-419" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Nuestra app quiere seguir siendo gratis para ti"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Notre application souhaite rester gratuite pour vous"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "हमारा ऐप आपके लिए मुफ़्त रहना चाहता है।"
+            "value" : "हम आपको आपकी पसंद के अनुसार अधिक प्रासंगिक विज्ञापन दिखाना चाहते हैं।"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "このアプリを無料で使い続けていただくために"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "저희 앱은 여러분께 무료로 제공되길 원합니다"
           }
         },
         "ms" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Aplikasi kami ingin kekal percuma untuk anda"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A nossa aplicação quer continuar gratuita para si"
+            "value" : "Queremos mostrar anúncios mais compatíveis com as suas preferências."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nosso app quer continuar gratuito para você"
+            "value" : "Queremos mostrar anúncios mais compatíveis com as suas preferências."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A nossa aplicação quer continuar gratuita para si"
+            "value" : "Queremos mostrar anúncios mais compatíveis com as suas preferências."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "我们的应用希望为您保持免费"
+            "state" : "needs_review",
+            "value" : "我们希望向您展示更符合您喜好的广告"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "我們的應用希望能持續為您免費提供服務"
+            "state" : "needs_review",
+            "value" : "我們希望向您展示更符合您喜好的廣告"
           }
         }
       }
