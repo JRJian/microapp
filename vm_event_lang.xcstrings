@@ -90,6 +90,40 @@
         }
       }
     },
+    "ad_home_watch_reward_action" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch Video"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "立即观看"
+          }
+        }
+      }
+    },
+    "ad_home_watch_reward_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enjoy 24-hour Vide Music Premium for free by watching short videos!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "畅享24小时Vibe Music会员功能，立即观看一部短视频吧！"
+          }
+        }
+      }
+    },
     "ad_idfa_alert_continue" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -256,7 +290,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "为此，我们需要申请广告权限。是否授权由您决定，不会影响应用的正常使用。"
           }
         },
@@ -345,7 +379,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "我们希望向您展示更符合您喜好的广告"
           }
         },
@@ -2727,7 +2761,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "您的免费试听已用完。升级到 Pro，解除所有限制，畅享完整播放。"
           }
         },
@@ -2785,7 +2819,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "免费版每首歌仅可试听 90 秒，开通 Premium 立即解锁完整歌曲。"
           }
         }
@@ -2907,7 +2941,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "已达到试听限制"
           }
         }
