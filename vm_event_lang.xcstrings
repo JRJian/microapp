@@ -480,6 +480,23 @@
         }
       }
     },
+    "ad_player_watch_reward_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "播放页底部观看激励视频"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "播放页底部观看激励视频"
+          }
+        }
+      }
+    },
     "event_alert_button_cancel" : {
       "extractionState" : "manual",
       "localizations" : {
