@@ -2684,6 +2684,57 @@
         }
       }
     },
+    "iap_lifetime_mark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One payment time"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "终身会员描述"
+          }
+        }
+      }
+    },
+    "iap_monthly_mark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "monthly mark"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "月度会员描述"
+          }
+        }
+      }
+    },
+    "iap_yearly_mark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "yearly mark"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年度会员描述"
+          }
+        }
+      }
+    },
     "preview_limit_action_step_0" : {
       "extractionState" : "manual",
       "localizations" : {
