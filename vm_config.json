@@ -2,7 +2,7 @@
     "lifetime": 25,
     "monthly": 0,
     "yearly": 0,
-    "freeSeconds": 90,
+    "freeSeconds": 150,
     "lifetime_des": "Lifetime(Newcomer Exclusive)",
     "yearly_des": "12 months",
     "monthly_des": "1 month",
@@ -46,7 +46,7 @@
     		"enabled": true,
     		"coldStartCountOfDay": 0,
     		"refreshIntervalInMinutes": 0,
-    		"rewardedTimeInMinutes": 120
+    		"rewardedTimeInMinutes": 1440
     	},
     	"banner": {
     		"enabled": true,

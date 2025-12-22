@@ -99,10 +99,40 @@
             "value" : "Watch Video"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वीडियो देखें"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assistir vídeo"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assistir vídeo"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assistir vídeo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "立即观看"
+            "state" : "translated",
+            "value" : "观看视频"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "觀看影片"
           }
         }
       }
@@ -113,13 +143,43 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enjoy 24-hour Vide Music Premium for free by watching short videos!"
+            "value" : "Enjoy %h hours of Premium for free by watching a short video!"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक छोटा वीडियो देखकर %h घंटे का प्रीमियम मुफ्त में享受 करें!"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aproveite %h horas de Premium gratuitamente ao assistir a um vídeo curto!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Aproveite 24 horas de Premium gratuitamente ao assistir a um vídeo curto!"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Aproveite 24 horas de Premium gratuitamente ao assistir a um vídeo curto!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "畅享24小时Vibe Music会员功能，立即观看一部短视频吧！"
+            "value" : "观看一段短视频，即可免费畅听 %h 小时！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "觀看一段短影片，即可免費暢聽 %h 小時！"
           }
         }
       }
@@ -296,7 +356,7 @@
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "為此，我們需要申請廣告權限。是否授權由您決定，不會影響應用的正常使用。"
           }
         }
@@ -385,7 +445,7 @@
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "我們希望向您展示更符合您喜好的廣告"
           }
         }
@@ -480,70 +540,49 @@
         }
       }
     },
-    "ad_player_preview_limit_action" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "升级"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "升级"
-          }
-        }
-      }
-    },
-    "ad_player_preview_limit_message" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "预览结束封面信息"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "预览结束封面信息"
-          }
-        }
-      }
-    },
-    "ad_player_preview_limit_title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "预览结束标题"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "预览结束标题"
-          }
-        }
-      }
-    },
     "ad_player_watch_reward_message" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "播放页底部观看激励视频"
+            "value" : "Watch a short video to enjoy %h hours of free listening"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक छोटा वीडियो देखकर %h घंटे तक मुफ़्त में सुनें"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assista a um vídeo e ouça grátis por %hh"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Assista a um vídeo e ouça grátis por 24h"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Assista a um vídeo e ouça grátis por 24h"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "播放页底部观看激励视频"
+            "value" : "观看一段短视频，即可免费畅听 %h 小时！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "觀看一段短影片，即可免費暢聽 %h 小時！"
           }
         }
       }
@@ -2690,13 +2729,43 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "One payment time"
+            "value" : "One-time purchase"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक बार की खरीद"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compra única"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compra única"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compra única"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "终身会员描述"
+            "value" : "一次性买断"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一次性購買"
           }
         }
       }
@@ -2707,13 +2776,90 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "monthly mark"
+            "value" : "7 days free trial"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 दिनों का निःशुल्क परीक्षण"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teste gratuito por 7 dias"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teste gratuito por 7 dias"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teste gratuito por 7 dias"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "月度会员描述"
+            "value" : " 7 天免费试用"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " 7 天免費試用"
+          }
+        }
+      }
+    },
+    "iap_newcomer_logo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New User Offer"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नए उपयोगकर्ता"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novo usuário"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novo usuário"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novo usuário"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新用户优惠"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新用戶優惠"
           }
         }
       }
@@ -2724,13 +2870,31 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "yearly mark"
+            "value" : " "
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "年度会员描述"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
           }
         }
       }
@@ -2814,6 +2978,12 @@
             "value" : "Unlock Full Songs"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock Full Songs"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2868,13 +3038,13 @@
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "आपका मुफ्त सुनने का सेशन समाप्त हो गया है। सीमाएँ हटाने और पूर्ण प्लेबैक अनलॉक करने के लिए Pro में अपग्रेड करें।"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Sua sessão gratuita acabou. Faça upgrade para Pro e ouça sem limites."
           }
         },
@@ -2886,7 +3056,7 @@
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "您的免費試聽已使用完畢。升級到 Pro，解除所有限制，享受完整播放。"
           }
         }
@@ -2936,10 +3106,28 @@
             "value" : "Don't let the music stop. Upgrade now for unlimited playback. "
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "संगीत को रुकने न दें। असीमित प्लेबैक के लिए अभी अपग्रेड करें।"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não deixe a música parar. Faça o upgrade agora para reprodução ilimitada."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "免费版每首歌仅可试听 90 秒，开通 Premium 立即解锁完整歌曲。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免費版每首歌曲僅可試聽 90 秒，開通 Premium 即可立即解鎖完整歌曲。"
           }
         }
       }
@@ -3053,6 +3241,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Want to hear the rest? "
+          }
+        },
+        "pt" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Want to hear the rest? "
