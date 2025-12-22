@@ -2887,8 +2887,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "年度会员描述"
+            "state" : "translated",
+            "value" : " "
           }
         },
         "zh-Hant" : {
