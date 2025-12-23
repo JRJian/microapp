@@ -46,7 +46,7 @@
     		"enabled": true,
     		"coldStartCountOfDay": 0,
     		"refreshIntervalInMinutes": 0,
-    		"rewardedTimeInMinutes": 1440
+    		"rewardedTimeInMinutes": 120
     	},
     	"banner": {
     		"enabled": true,
