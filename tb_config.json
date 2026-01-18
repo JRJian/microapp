@@ -7,7 +7,7 @@
     "yearly_des": "12 months",
     "monthly_des": "1 month",
     "launchAlertEnabled": 1,
-    "launchAlertMessage": "We are currently experiencing technical issues that may affect music playback.We are working on an urgent fix and apologize for the inconvenience.Service will be restored as soon as possible.",
+    "launchAlertMessage": "If you encounter playback issues, please update the app to the latest version.",
     "launchAlertMaxCode": 126,
     "goodVersionMinCode": 1270,
     "freeProMinCode": 70,
