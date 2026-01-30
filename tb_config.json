@@ -9,7 +9,7 @@
     "launchAlertEnabled": 1,
     "launchAlertMessage": "If you encounter playback issues, please update the app to the latest version.",
     "launchAlertMaxCode": 126,
-    "goodVersionMinCode": 1270,
+    "goodVersionMinCode": 128,
     "freeProMinCode": 70,
     "eventEntryEnabeldQuery": "< 1000",
     "freeProExpiredMonth": 3,
