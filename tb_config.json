@@ -20,7 +20,7 @@
     "cacheExpiryHours": 7,
     "canLogin": false,
     "settingSwitch": {
-    	"faqArentPlaying": false,
+    	"faqArentPlaying": true,
     	"faqTransfer": true,
     	"faqMissing": true,
     },
