@@ -17,7 +17,7 @@
     "cacheAssetEnabled": 1,
     "cacheMaxFilesize": 30000000,
     "cacheMaxDur": 1200,
-    "cacheExpiryHours": 7,
+    "cacheExpiryHours": 0,
     "canLogin": false,
     "settingSwitch": {
     	"faqArentPlaying": true,
