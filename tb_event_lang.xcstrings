@@ -72,7 +72,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "限时折扣"
           }
         },
@@ -2491,9 +2491,6 @@
         }
       }
     },
-    "Key" : {
-      "extractionState" : "manual"
-    },
     "setting_row_event_title" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2565,7 +2562,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "分享社媒，免费获取会员"
           }
         },
