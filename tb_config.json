@@ -1,5 +1,6 @@
 {    
     "lifetime": 25,
+    "lifetimeDiscount": 45,
     "monthly": 0,
     "yearly": 0,
     "freeSeconds": 120,
