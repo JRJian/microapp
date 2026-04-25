@@ -90,67 +90,67 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einmal zahlen, für immer nutzen"
+            "value" : "Einmal zahlen · Für immer nutzen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pay once, use forever"
+            "value" : "One-time purchase · Use forever"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paga una vez, úsalo para siempre"
+            "value" : "Paga una vez · Úsalo para siempre"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paga una vez, úsalo para siempre"
+            "value" : "Paga una vez · Úsalo para siempre"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Payez une fois, utilisez à vie"
+            "value" : "Paiement unique · Utilisation à vie"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一度購入でずっと使える"
+            "value" : "一度の購入でずっと使える"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "한 번 결제, 평생 사용"
+            "value" : "한 번 구매로 평생 사용"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bayar sekali, guna selamanya"
+            "value" : "Bayar sekali · Guna selamanya"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pague uma vez, use para sempre"
+            "value" : "Pague uma vez · Use para sempre"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pague uma vez, use para sempre"
+            "value" : "Pague uma vez · Use para sempre"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pague uma vez, use para sempre"
+            "value" : "Pague uma vez · Use para sempre"
           }
         },
         "zh-Hans" : {
@@ -162,7 +162,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一次購買，永久使用"
+            "value" : "一次購買 · 永久使用"
           }
         }
       }
@@ -173,79 +173,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeitlich begrenzt: Spare p% auf lebenslangen Zugang"
+            "value" : "Spare p% für kurze Zeit"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Limited-time: Save p% on lifetime access"
+            "value" : "Save p% for a limited time"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oferta limitada: ahorra p% en acceso de por vida"
+            "value" : "Ahorra un p% por tiempo limitado"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oferta limitada: ahorra p% en acceso de por vida"
+            "value" : "Ahorra un p% por tiempo limitado"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Offre limitée : économisez p% sur l’accès à vie"
+            "value" : "Offre limitée : -p%"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "期間限定：永久アクセスが p% お得"
+            "value" : "期間限定で  p% お得"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "기간 한정: 평생 이용 p% 할인"
+            "value" : "기간 한정 p% 할인"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tawaran terhad: jimat p% untuk akses seumur hidup"
+            "value" : "Jimat p% untuk masa terhad"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oferta por tempo limitado: poupe p% no acesso vitalício"
+            "value" : "Poupe p% por tempo limitado"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oferta por tempo limitado: poupe p% no acesso vitalício"
+            "value" : "Poupe p% por tempo limitado"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oferta por tempo limitado: poupe p% no acesso vitalício"
+            "value" : "Poupe p% por tempo limitado"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "限时立省 p%，终身会员"
+            "value" : "限时立省 p%，一次购买永久使用"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "限時立省 p%，終身會員"
+            "value" : "限時優惠，現省 p%"
           }
         }
       }
@@ -256,7 +256,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zugang auf Lebenszeit ✨"
+            "value" : "Lebenslang ✨"
           }
         },
         "en" : {
@@ -268,13 +268,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acceso de por vida ✨"
+            "value" : "Acceso Vitalicio ✨"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acceso de por vida ✨"
+            "value" : "Acceso Vitalicio ✨"
           }
         },
         "fr" : {
@@ -298,7 +298,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Akses Sepanjang Hayat ✨"
+            "value" : "Akses Kekal ✨"
           }
         },
         "pt" : {
@@ -339,7 +339,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lebenslang freischalten"
+            "value" : "Jetzt kaufen"
           }
         },
         "en" : {
@@ -351,55 +351,55 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acceso de por vida"
+            "value" : "Comprar Ahora"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acceso de por vida"
+            "value" : "Comprar Ahora"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Débloquer à vie"
+            "value" : "Acheter maintenant"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "永久アクセスを解放"
+            "value" : "今すぐ購入"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "평생 이용 잠금 해제"
+            "value" : "지금 구매하기"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Akses seumur hidup"
+            "value" : "Beli Sekarang"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acesso vitalício"
+            "value" : "Comprar Agora"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acesso vitalício"
+            "value" : "Comprar Agora"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acesso vitalício"
+            "value" : "Comprar Agora"
           }
         },
         "zh-Hans" : {
@@ -2490,6 +2490,9 @@
           }
         }
       }
+    },
+    "Key" : {
+      "extractionState" : "manual"
     },
     "setting_row_event_title" : {
       "extractionState" : "manual",
