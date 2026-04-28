@@ -14,6 +14,7 @@
     "freeProMinCode": 70,
     "eventEntryEnabeldQuery": "< 1000",
     "discountEventEntryEnabeldQuery": "not in (1310)",
+    "discountEventLimitInMinutes": 30,
     "launchAlertQuery": "in (1)",
     "freeProExpiredMonth": 3,
     "eventDisabledRegions": "",
