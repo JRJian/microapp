@@ -18,7 +18,7 @@
     "launchAlertQuery": "in (1)",
     "freeProExpiredMonth": 3,
     "eventDisabledRegions": "",
-    "canLogin": false,
+    "canLogin": true,
     "settingSwitch": {
         "faqArentPlaying": true,
         "faqTransfer": true,
