@@ -1,0 +1,39 @@
+{
+    "lifetime": 25,
+    "lifetimeDiscount": 50,
+    "monthly": 0,
+    "yearly": 0,
+    "freeSeconds": 120,
+    "lifetime_des": "Lifetime(Newcomer Exclusive)",
+    "yearly_des": "12 months",
+    "monthly_des": "1 month",
+    "launchAlertEnabled": 1,
+    "launchAlertMessage": "We've fixed an issue that caused playback errors. Please update to the latest version on the App Store to resume normal use.",
+    "launchAlertMaxCode": 100,
+    "goodVersionMinCode": 1420,
+    "freeProMinCode": 70,
+    "eventEntryEnabeldQuery": "< 1",
+    "discountEventEntryEnabeldQuery": "< 1000",
+    "discountEventLimitInMinutes": 30,
+    "launchAlertQuery": "in (1)",
+    "freeProExpiredMonth": 3,
+    "eventDisabledRegions": "",
+    "canLogin": false,
+    "settingSwitch": {
+        "faqArentPlaying": true,
+        "faqTransfer": true,
+        "faqMissing": true
+    },
+    "ua": {
+        "ipad": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15",
+        "desktop": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15,gzip(gfe)",
+        "clientName": "67",
+        "clientVersion": "2.20251209.10.00",
+        "musicClientVersion": "1.20250519.10.16"
+    },
+    "inner": {
+        "useOther": false,
+        "other": "{\"contentCheckOk\":true,\"racyCheckOk\":true,\"context\":{\"client\":{\"platform\":\"MOBILE\",\"visitorData\":\"VISITOR_DATA\",\"clientVersion\":\"21.06.252\",\"clientName\":\"ANDROID\"}},\"videoId\":\"VIDEO_ID\",\"params\":\"gAQB8AUBygYQNTIxNTJCNDk0NkMyRjczRg%3D%3D\"}",
+        "json": "{\"context\":{\"client\":{\"clientName\":\"WEB\",\"clientVersion\":\"1.20250602.08.00\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15,gzip(gfe)\",\"visitorData\":\"VISITOR_DATA\",\"hl\":\"en\",\"timeZone\":\"UTC\",\"utcOffsetMinutes\":0}},\"playbackContext\":{\"contentPlaybackContext\":{\"html5Preference\":\"HTML5_PREF_WANTS\",\"signatureTimestamp\":20613}},\"contentCheckOk\":true,\"racyCheckOk\":true,\"videoId\":\"VIDEO_ID\"}"
+    }
+}
