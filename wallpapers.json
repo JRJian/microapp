@@ -1,0 +1,115 @@
+{
+	"version": 5,
+	"wallpapers": [
+		{
+			"id": 1,
+			"title": {
+				"en": "Alpine Sunset Horizon",
+				"zh": "日落的地平线 阿尔卑斯",
+				"fr": "Horizon des Alpes au coucher du soleil"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/B382AE43-4CE3-401E-AA72-35F5E959E98B.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/1.zip",
+			"requires_subscription": false
+		},
+		{
+			"id": 2,
+			"title": {
+				"en": "Crystal Clear Seawater",
+				"zh": "澄澈海水",
+				"fr": "Eaux de mer cristallines"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/A8370717-32E2-4FBA-A5CE-F37064698311.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/2.zip",
+			"requires_subscription": true
+		},
+		{
+			"id": 3,
+			"title": {
+				"en": "Cartoon Bedroom",
+				"zh": "卡通卧室",
+				"fr": "Chambre cartoon"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/61BA4713-D99C-43E6-BF2A-9C317A5BF0E2.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/3.zip",
+			"requires_subscription": true
+		},
+		{
+			"id": 4,
+			"title": {
+				"en": "Tahiti Island Coast",
+				"zh": "塔希提岛海岸",
+				"fr": "Côte de Tahiti"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/59AD5C49-A95A-4830-AE9A-44043C6BF4F1.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/4.zip",
+			"requires_subscription": true
+		},
+		{
+			"id": 5,
+			"title": {
+				"en": "Blue Sky  White Clouds",
+				"zh": "蓝天 白云",
+				"fr": "Ciel bleu et nuages blancs"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/10F89ABC-31B8-436B-90FE-C825B1A70CF7.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/5.zip",
+			"requires_subscription": true
+		},
+		{
+			"id": 6,
+			"title": {
+				"en": "Mont Saint-Michel",
+				"zh": "圣米歇尔山",
+				"fr": "Mont Saint-Michel"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/72DB5CA5-87CF-42F9-BEC8-A00A25F0E6E1.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/6.zip",
+			"requires_subscription": true
+		},
+		{
+			"id": 7,
+			"title": {
+				"en": "Summer Swimming Pool",
+				"zh": "夏日泳池",
+				"fr": "Piscine d'été"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/94554331-0C26-4837-ABF0-8A4FD8748639.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/7.zip",
+			"requires_subscription": true
+		},
+		{
+			"id": 8,
+			"title": {
+				"en": "Los Angeles City Night View",
+				"zh": "洛杉矶 城市夜景",
+				"fr": "Nightscape de Los Angeles"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/E944BD49-F31E-47B7-9527-A9EBB208517A.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/8.zip",
+			"requires_subscription": true
+		},
+		{
+			"id": 9,
+			"title": {
+				"en": "Snowy Mountain Cabin",
+				"zh": "雪山 木屋",
+				"fr": "Chalet de neige"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/C16FBBE5-95C2-493A-A64D-A9C67C313BC5.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/9.zip",
+			"requires_subscription": true
+		},
+		{
+			"id": 10,
+			"title": {
+				"en": "Cyberpunk gas station",
+				"zh": "赛博朋克 加油站",
+				"fr": "Station-service cyberpunk"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/37D01113-6D7C-473D-AD5F-4B25166B662D.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/10.zip",
+			"requires_subscription": true
+		}
+	]
+}
