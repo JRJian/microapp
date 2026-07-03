@@ -110,6 +110,17 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/37D01113-6D7C-473D-AD5F-4B25166B662D.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/10.zip",
 			"requires_subscription": true
+		},
+		{
+			"id": 11,
+			"title": {
+				"en": "Cozy Lo-Fi Treehouse",
+				"zh": "舒适 Lo-Fi 树屋",
+				"fr": "Cabane Lo-Fi Confortable"
+			},
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/AuPGzI6UMaxOjpGN5pzLU_image_preview.png",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/11.zip",
+			"requires_subscription": true
 		}
 	]
 }
