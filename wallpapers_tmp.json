@@ -1,5 +1,5 @@
 {
-	"version": 5,
+	"version": 6,
 	"wallpapers": [
 		{
 			"id": 1,
@@ -57,14 +57,14 @@
 			"requires_subscription": true
 		},
 		{
-			"id": 6,
+			"id": 1101,
 			"title": {
-				"en": "Mont Saint-Michel",
-				"zh": "圣米歇尔山",
-				"fr": "Mont Saint-Michel"
+				"en": "Skyscrapers Nightscape",
+				"zh": "摩天大楼 夜景",
+				"fr": "Gratte-ciels en vue nocturne"
 			},
-			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/72DB5CA5-87CF-42F9-BEC8-A00A25F0E6E1.heif",
-			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/6.zip",
+			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/55AB95FB-D590-4861-8DFA-E05C406FC184.heif",
+			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/1101.zip",
 			"requires_subscription": true
 		},
 		{
