@@ -1,5 +1,5 @@
 {
-	"version": 6,
+	"version": 7,
 	"wallpapers": [
 		{
 			"id": 1,
@@ -11,7 +11,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/B382AE43-4CE3-401E-AA72-35F5E959E98B.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/1.zip",
 			"requires_subscription": false,
-			"audioEnabled": false
+			"audio_enabled": false
 		},
 		{
 			"id": 2,
@@ -23,7 +23,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/A8370717-32E2-4FBA-A5CE-F37064698311.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/2.zip",
 			"requires_subscription": true,
-			"audioEnabled": false
+			"audio_enabled": false
 		},
 		{
 			"id": 3,
@@ -35,7 +35,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/61BA4713-D99C-43E6-BF2A-9C317A5BF0E2.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/3.zip",
 			"requires_subscription": true,
-			"audioEnabled": false
+			"audio_enabled": false
 		},
 		{
 			"id": 4,
@@ -47,7 +47,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/59AD5C49-A95A-4830-AE9A-44043C6BF4F1.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/4.zip",
 			"requires_subscription": true,
-			"audioEnabled": false
+			"audio_enabled": false
 		},
 		{
 			"id": 5,
@@ -59,7 +59,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/10F89ABC-31B8-436B-90FE-C825B1A70CF7.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/5.zip",
 			"requires_subscription": true,
-			"audioEnabled": false
+			"audio_enabled": false
 		},
 		{
 			"id": 1101,
@@ -71,7 +71,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/55AB95FB-D590-4861-8DFA-E05C406FC184.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/1101.zip",
 			"requires_subscription": true,
-			"audioEnabled": true
+			"audio_enabled": true
 		},
 		{
 			"id": 7,
@@ -83,7 +83,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/94554331-0C26-4837-ABF0-8A4FD8748639.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/7.zip",
 			"requires_subscription": true,
-			"audioEnabled": false
+			"audio_enabled": false
 		},
 		{
 			"id": 8,
@@ -95,7 +95,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/E944BD49-F31E-47B7-9527-A9EBB208517A.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/8.zip",
 			"requires_subscription": true,
-			"audioEnabled": false
+			"audio_enabled": false
 		},
 		{
 			"id": 9,
@@ -107,7 +107,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/C16FBBE5-95C2-493A-A64D-A9C67C313BC5.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/9.zip",
 			"requires_subscription": true,
-			"audioEnabled": false
+			"audio_enabled": false
 		},
 		{
 			"id": 10,
@@ -119,7 +119,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/37D01113-6D7C-473D-AD5F-4B25166B662D.heif",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/10.zip",
 			"requires_subscription": true,
-			"audioEnabled": false
+			"audio_enabled": false
 		},
 		{
 			"id": 11,
@@ -131,7 +131,7 @@
 			"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/AuPGzI6UMaxOjpGN5pzLU_image_preview.png",
 			"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/11.zip",
 			"requires_subscription": true,
-			"audioEnabled": false
+			"audio_enabled": false
 		}
 	]
 }
