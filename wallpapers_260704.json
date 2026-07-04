@@ -132,6 +132,18 @@
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/11.zip",
             "requires_subscription": true,
             "audio_enabled": false
+        },
+        {
+            "id": 12,
+            "title": {
+                "en": "Rainy Forest Store",
+                "zh": "雨中森林 便利店",
+                "fr": "Magasin Rainy Forest"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/UEb8jCHYycoqdu0w0noZk.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/12.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
         }
     ]
 }
