@@ -144,6 +144,54 @@
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/12.zip",
             "requires_subscription": true,
             "audio_enabled": false
+        },
+        {
+            "id": 13,
+            "title": {
+                "en": "Nebula",
+                "zh": "Nebula",
+                "fr": "Nebula"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/8yADsYT99P2VGX4QrR2m2.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/13.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
+            "id": 14,
+            "title": {
+                "en": "Autumn Leaves",
+                "zh": "秋葉",
+                "fr": "Les Feuilles d'Automne"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/id5jQPDOOZcAK0B3L63xo.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/14.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
+            "id": 15,
+            "title": {
+                "en": "Super Mario Pixel",
+                "zh": "超级马里奥 像素风",
+                "fr": "Super Mario Pixel"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/fgGhFCxqa1gisHKXmaiPt.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/15.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
+            "id": 16,
+            "title": {
+                "en": "Rome Sunken Loop",
+                "zh": "罗马沉没之环",
+                "fr": "Boucle Engloutie de Rome"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/MCjB5W8GGyp28XxNdAsTz.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/16.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
         }
     ]
 }
