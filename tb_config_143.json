@@ -17,7 +17,7 @@
     "discountEventLimitInMinutes": 30,
     "launchAlertQuery": "in (1)",
     "freeProExpiredMonth": 3,
-    "requestTimeout": 20,
+    "requestTimeout": 6,
     "eventDisabledRegions": "",
     "canLogin": true,
     "settingSwitch": {
