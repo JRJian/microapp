@@ -192,6 +192,18 @@
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/16.zip",
             "requires_subscription": true,
             "audio_enabled": false
+        },
+        {
+            "id": 17,
+            "title": {
+                "en": "Snowfall in Pine",
+                "zh": "松林飘雪",
+                "fr": "Neige sur les pins"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/VoQwnoc9Yd7d6z0Q7PBf3.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/17.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
         }
     ]
 }
