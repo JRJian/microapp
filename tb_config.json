@@ -12,7 +12,7 @@
     "launchAlertMaxCode": 100,
     "goodVersionMinCode": 1420,
     "freeProMinCode": 70,
-    "eventEntryEnabeldQuery": "< 1",
+    "eventEntryEnabeldQuery": "< 1000",
     "discountEventEntryEnabeldQuery": "< 1000",
     "discountEventLimitInMinutes": 30,
     "launchAlertQuery": "in (1)",
