@@ -10,7 +10,7 @@
     "launchAlertEnabled": 1,
     "launchAlertMessage": "We've fixed an issue that caused playback errors. Please update to the latest version on the App Store to resume normal use.",
     "launchAlertMaxCode": 100,
-    "goodVersionMinCode": 1450,
+    "goodVersionMinCode": 146,
     "freeProMinCode": 70,
     "eventEntryEnabeldQuery": "< 1000",
     "discountEventEntryEnabeldQuery": "< 1000",
