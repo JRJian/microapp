@@ -204,6 +204,42 @@
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/17.zip",
             "requires_subscription": true,
             "audio_enabled": false
+        },
+        {
+            "id": 18,
+            "title": {
+                "en": "Cozy Rainy Night",
+                "zh": "温馨的雨夜",
+                "fr": "Douce nuit de pluie"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/xkppTK29GgW4jfwbfMEa8.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/18.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
+            "id": 19,
+            "title": {
+                "en": "Cat",
+                "zh": "猫",
+                "fr": "Chat"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/gm5BaDT1kghfYLmhm4xEU.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/19.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
+            "id": 20,
+            "title": {
+                "en": "Red Eyes Anime Girl",
+                "zh": "赤瞳动漫少女",
+                "fr": "Fille d'anime aux yeux rouges"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/j7mrl6UCS3CSLISkZ76IL.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/20.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
         }
     ]
 }
