@@ -9,7 +9,7 @@
     "launchAlertEnabled": 1,
     "launchAlertMessage": "Update Available\nThere were some issues with YouTube search in the previous version. We’ve released an update to fix them. Please update the app to the latest version.",
     "launchAlertMaxCode": 87,
-    "goodVersionMinCode": 60,
+    "goodVersionMinCode": 600,
     "freeProMinCode": 70,
     "eventEntryEnabeldQuery": "< 10",
     "eventExchangeEnabeldQuery": "< 10",
@@ -18,7 +18,7 @@
     "eventDisabledRegions": "",
     "trialNextPlayCount": 5,
     "trialNextPlaySeconds": 720,
-    "canLogin": false,
+    "canLogin": true,
     "ua": {
         "ipad": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15",
         "desktop": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15,gzip(gfe)",
