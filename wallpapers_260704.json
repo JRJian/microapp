@@ -34,7 +34,7 @@
             },
             "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/61BA4713-D99C-43E6-BF2A-9C317A5BF0E2.heif",
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/3.zip",
-            "requires_subscription": false,
+            "requires_subscription": true,
             "audio_enabled": false
         },
         {
