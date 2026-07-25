@@ -240,6 +240,30 @@
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/20.zip",
             "requires_subscription": true,
             "audio_enabled": false
+        },
+        {
+            "id": 21,
+            "title": {
+                "en": "Water Train Station",
+                "zh": "水上火车站",
+                "fr": "Gare d'Eau"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/jweE3FQCX5obSIxnmr4vB.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/21.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
+            "id": 22,
+            "title": {
+                "en": "Satoru Gojo - Blue Flames",
+                "zh": "五条悟 - 青蓝火焰",
+                "fr": "Satoru Gojo - Flammes Bleues"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/oorF6Jci35qSLdbnWGFgc.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/22.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
         }
     ]
 }
