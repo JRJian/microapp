@@ -986,7 +986,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🎁 免费领取 TubePod 会员！"
+            "value" : "🎁 免费领取 TubePod Premium"
           }
         },
         "zh-Hant" : {
@@ -1252,79 +1252,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Hinweise：\n1. Jeder Nutzer kann nur einmal teilnehmen, und es kann nur ein Einlöscode innerhalb von 7 Tagen nach Veröffentlichung des Beitrags eingelöst werden. Nach 7 Tagen wird der Traffic automatisch ungültig.\n2. Beiträge müssen öffentlich und dauerhaft zugänglich sein; gelöschte oder private Beiträge sind nicht teilnahmeberechtigt.\n3. Wenn du deinen Premium-Zugang nicht innerhalb von 10 Tagen nach Einreichung erhalten hast, kontaktiere uns gerne unter support@byteapps.tech – wir bitten um Verständnis bei eventuellen Verzögerungen.\n4. TubePod behält sich das Recht auf die endgültige Auslegung dieser Aktion vor."
+            "value" : "📌 Teilnahmebedingungen\n\n1. Jeder Nutzer kann einmal an dieser Aktion teilnehmen.\n2. Pro Nutzer kann alle 7 Tage nur ein Einlösecode vergeben werden. Doppelte Teilnahmen oder erneut eingereichte Inhalte werden nicht belohnt.\n3. Bitte halte deinen Beitrag bis zum Abschluss der Prüfung öffentlich. Gelöschte, ausgeblendete oder private Beiträge sind von der Aktion ausgeschlossen.\n4. Solltest du deinen Premium-Code innerhalb von 10 Tagen nach der Einreichung nicht erhalten haben, kontaktiere bitte support@tubepod.app.\n5. TubePod behält sich das Recht auf die endgültige Auslegung und Entscheidung dieser Aktion vor."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notes:\n1. Each user can only participate once, and only one redemption code can be claimed within 7 days of the post being published. Traffic generated after 7 days will be automatically voided.\n2. Posts must be public and remain accessible; deleted or private posts will not be eligible.\n3. If you haven’t received your Premium code within 10 days after submission, feel free to contact us at support@byteapps.tech — we appreciate your understanding in case of any delays.\n4. TubePod reserves the right of final interpretation for this campaign."
+            "value" : "📌 Terms & Conditions\n\n1. Each user may participate once.\n2. Each user may claim one redemption code every 7 days. Duplicate submissions or resubmitting the same content will not be rewarded.\n3. Please keep your post public until the review is complete. Deleted, hidden, or private posts are not eligible.\n4. If you haven’t received your redemption code within 10 days after submission, please contact support@tubepod.app.\n5. TubePod reserves the right to make the final interpretation of this campaign."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada usuario solo puede participar una vez, y solo se puede reclamar un código de canje dentro de los 7 días posteriores a la publicación de la publicación. El tráfico generado después de 7 días se anulará automáticamente.\n2. Las publicaciones deben ser públicas y permanecer accesibles; las publicaciones eliminadas o privadas no serán válidas.\n3. Si no recibes tu código Premium dentro de los 10 días posteriores al envío, no dudes en escribirnos a support@byteapps.tech — agradecemos tu comprensión en caso de retrasos.\n4. TubePod se reserva el derecho de interpretación final de esta campaña."
+            "value" : "📌 Términos y condiciones\n\n1. Cada usuario puede participar una sola vez.\n2. Cada usuario puede reclamar un código de canje cada 7 días. Las participaciones duplicadas o el envío del mismo contenido más de una vez no recibirán recompensa.\n3. Mantén tu publicación pública hasta que finalice la revisión. Las publicaciones eliminadas, ocultas o configuradas como privadas no serán elegibles.\n4. Si no recibes tu código Premium dentro de los 10 días posteriores al envío de tu participación, ponte en contacto con support@tubepod.app.\n5. TubePod se reserva el derecho de la decisión e interpretación final de esta campaña."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada usuario solo puede participar una vez, y solo se puede reclamar un código de canje dentro de los 7 días posteriores a la publicación de la publicación. El tráfico generado después de 7 días se anulará automáticamente.\n2. Las publicaciones deben ser públicas y permanecer accesibles; las publicaciones eliminadas o privadas no serán válidas.\n3. Si no recibes tu código Premium dentro de los 10 días posteriores al envío, no dudes en escribirnos a support@byteapps.tech — agradecemos tu comprensión en caso de retrasos.\n4. TubePod se reserva el derecho de interpretación final de esta campaña."
+            "value" : "📌 Términos y condiciones\n\n1. Cada usuario puede participar una sola vez.\n2. Cada usuario puede reclamar un código de canje cada 7 días. Las participaciones duplicadas o el envío del mismo contenido más de una vez no recibirán recompensa.\n3. Mantén tu publicación pública hasta que finalice la revisión. Las publicaciones eliminadas, ocultas o configuradas como privadas no serán elegibles.\n4. Si no recibes tu código Premium dentro de los 10 días posteriores al envío de tu participación, ponte en contacto con support@tubepod.app.\n5. TubePod se reserva el derecho de la decisión e interpretación final de esta campaña."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Remarques：\n1. Chaque utilisateur ne peut participer qu'une seule fois, et un seul code de remboursement peut être réclamé dans les 7 jours suivant la publication du post. Le trafic généré après 7 jours sera automatiquement annulé.\n2. Les publications doivent être publiques et rester accessibles ; les publications supprimées ou privées ne seront pas prises en compte.\n3. Si vous ne recevez pas votre accès Premium dans les 10 jours suivant votre soumission, n’hésitez pas à nous contacter à l’adresse support@byteapps.tech — merci pour votre compréhension en cas de retard éventuel.\n4. TubePod se réserve le droit d’interprétation finale de cette campagne."
+            "value" : "📌 Conditions de participation\n\n1. Chaque utilisateur ne peut participer qu’une seule fois.\n2. Chaque utilisateur ne peut recevoir qu’un seul code de récompense tous les 7 jours. Les participations ou soumissions en double ne seront pas récompensées.\n3. Votre publication doit rester publique jusqu’à la fin de la vérification. Les publications supprimées, masquées ou rendues privées ne seront pas prises en compte.\n4. Si vous n’avez pas reçu votre code Premium dans les 10 jours suivant votre participation, veuillez contacter support@tubepod.app.\n5. TubePod se réserve le droit de modifier, d’interpréter et de statuer définitivement sur cette campagne."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 注意事項\n1. 各ユーザーは1回のみ参加可能で、投稿から7日以内に1つの引換コードのみ受け取れます。7日を過ぎたアクセスは自動的に無効となります。\n2. 投稿は公開設定である必要があり、削除または非公開にされた投稿は対象外となります。\n3. 提出から10日以内にPremiumコードが届かない場合は、support@byteapps.tech までご連絡ください。遅延が発生する可能性があることをご理解いただけますと幸いです。\n4. 本キャンペーンの最終的な解釈権はTubePodにあります。"
+            "value" : "📌 キャンペーンについて\n\n1. 本キャンペーンへの参加は、お一人様 1回限り です。\n2. 引き換えコードの受け取りは、7日間につき1回まで です。同じ内容の再投稿や重複応募は特典の対象外となります。\n3. 審査が完了するまで、投稿は公開状態のままにしてください。削除・非公開・限定公開にした場合は対象外となります。\n4. 応募から 10日以上 経過しても引き換えコードが届かない場合は、support@tubepod.app までお問い合わせください。\n5. 本キャンペーンの最終的な判断および解釈は TubePod が行います。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 안내사항\n1. 각 사용자는 한 번만 참여할 수 있으며, 게시물 게시 후 7일 이내에 교환 코드를 한 번만 받을 수 있습니다. 7일 이후의 트래픽은 자동으로 무효 처리됩니다.\n2. 게시물은 공개되어야 하며, 삭제되거나 비공개로 설정된 게시물은 인정되지 않습니다.\n3. 제출 후 10일 이내에 Premium 코드를 받지 못한 경우, support@byteapps.tech 로 문의해 주세요. 처리 지연이 있을 수 있는 점 양해 부탁드립니다.\n4. 본 이벤트에 대한 최종 해석 권한은 TubePod에 있습니다."
+            "value" : "📌 안내 사항\n\n1. 본 이벤트는 1인당 1회만 참여할 수 있습니다.\n2. 동일한 사용자는 7일에 1개의 교환 코드만 받을 수 있습니다. 중복 참여 또는 동일한 콘텐츠를 다시 제출하는 경우 리워드 대상에서 제외됩니다.\n3. 심사가 완료될 때까지 게시물을 공개 상태로 유지해 주세요. 게시물을 삭제하거나 비공개 또는 숨김 처리할 경우 리워드를 받을 수 없습니다.\n4. 제출 후 10일이 지나도 교환 코드를 받지 못한 경우 support@tubepod.app 으로 문의해 주세요.\n5. 본 이벤트의 최종 해석 및 운영 권한은 TubePod에 있습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Nota\n1. Setiap pengguna hanya boleh menyertai sekali sahaja, dan hanya satu kod penebusan boleh dituntut dalam tempoh 7 hari selepas siaran diterbitkan. Trafik selepas 7 hari akan terbatal secara automatik.\n2. Siaran mesti ditetapkan sebagai umum dan kekal boleh diakses; siaran yang dipadam atau ditetapkan sebagai peribadi tidak akan diterima.\n3. Jika anda belum menerima kod Premium dalam masa 10 hari selepas penyerahan, sila hubungi kami di support@byteapps.tech — kami menghargai pemahaman anda sekiranya berlaku kelewatan.\n4. TubePod berhak membuat tafsiran akhir bagi kempen ini."
+            "value" : "📌 Terma & Syarat\n\n1. Setiap pengguna hanya boleh menyertai kempen ini sekali.\n2. Setiap pengguna hanya boleh menuntut 1 kod penebusan setiap 7 hari. Penyertaan berulang atau penghantaran kandungan yang sama tidak layak menerima ganjaran.\n3. Sila pastikan hantaran anda kekal umum (public) sehingga proses semakan selesai. Hantaran yang dipadam, disembunyikan atau dijadikan peribadi (private) tidak akan layak.\n4. Jika anda masih belum menerima kod Premium dalam tempoh 10 hari selepas menghantar penyertaan, sila hubungi support@tubepod.app.\n5. TubePod berhak membuat keputusan dan tafsiran muktamad bagi kempen ini."
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada usuário só pode participar uma vez, e apenas um código de resgate pode ser reivindicado dentro de 7 dias após a publicação do post. O tráfego gerado após 7 dias será automaticamente anulado.\n2. As publicações devem ser públicas e permanecer acessíveis; publicações excluídas ou privadas não serão elegíveis.\n3. Se não receber o seu código Premium dentro de 10 dias após a submissão, entre em contacto connosco através de support@byteapps.tech — agradecemos a sua compreensão em caso de atrasos.\n4. A TubePod reserva-se o direito de interpretação final desta campanha."
+            "value" : "📌 Termos da Campanha\n\n1. Cada usuário pode participar apenas uma vez.\n2. Cada usuário pode resgatar apenas 1 código a cada 7 dias. Participações duplicadas ou o envio do mesmo conteúdo novamente não serão recompensados.\n3. Mantenha sua publicação pública até a conclusão da análise. Publicações excluídas, ocultas ou privadas não serão elegíveis.\n4. Caso você não receba seu código Premium em até 10 dias após o envio da participação, entre em contato pelo e-mail support@tubepod.app.\n5. O TubePod reserva-se o direito de decisão e interpretação final desta campanha."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada usuário só pode participar uma vez, e apenas um código de resgate pode ser reivindicado dentro de 7 dias após a publicação do post. O tráfego gerado após 7 dias será automaticamente anulado.\n2. As publicações devem ser públicas e permanecer acessíveis; publicações excluídas ou privadas não serão elegíveis.\n3. Se não receber o seu código Premium dentro de 10 dias após a submissão, entre em contacto connosco através de support@byteapps.tech — agradecemos a sua compreensão em caso de atrasos.\n4. A TubePod reserva-se o direito de interpretação final desta campanha."
+            "value" : "📌 Termos da Campanha\n\n1. Cada usuário pode participar apenas uma vez.\n2. Cada usuário pode resgatar apenas 1 código a cada 7 dias. Participações duplicadas ou o envio do mesmo conteúdo novamente não serão recompensados.\n3. Mantenha sua publicação pública até a conclusão da análise. Publicações excluídas, ocultas ou privadas não serão elegíveis.\n4. Caso você não receba seu código Premium em até 10 dias após o envio da participação, entre em contato pelo e-mail support@tubepod.app.\n5. O TubePod reserva-se o direito de decisão e interpretação final desta campanha."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🛡 Notas\n1. Cada usuário só pode participar uma vez, e apenas um código de resgate pode ser reivindicado dentro de 7 dias após a publicação do post. O tráfego gerado após 7 dias será automaticamente anulado.\n2. As publicações devem ser públicas e permanecer acessíveis; publicações excluídas ou privadas não serão elegíveis.\n3. Se não receber o seu código Premium dentro de 10 dias após a submissão, entre em contacto connosco através de support@byteapps.tech — agradecemos a sua compreensão em caso de atrasos.\n4. A TubePod reserva-se o direito de interpretação final desta campanha."
+            "value" : "📌 Termos da Campanha\n\n1. Cada usuário pode participar apenas uma vez.\n2. Cada usuário pode resgatar apenas 1 código a cada 7 dias. Participações duplicadas ou o envio do mesmo conteúdo novamente não serão recompensados.\n3. Mantenha sua publicação pública até a conclusão da análise. Publicações excluídas, ocultas ou privadas não serão elegíveis.\n4. Caso você não receba seu código Premium em até 10 dias após o envio da participação, entre em contato pelo e-mail support@tubepod.app.\n5. O TubePod reserva-se o direito de decisão e interpretação final desta campanha."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "🛡 温馨提示：\n1. 每位用户仅限参与一次，且自帖子发布后7天内只能领取1次兑换码，超过7天后的流量将自动作废。\n2. 帖子需公开可见，不能删除或设为仅自己可见\n3. 若您提交成功后超过 10 天仍未收到兑换码，可通过邮件联系客服（support@byteapps.tech）进行查询，工作中难免有疏漏，感谢理解与支持\n4. 活动最终解释权归 TubePod 所有"
+            "state" : "needs_review",
+            "value" : "📌 活动说明\n\n1. 每位用户仅可参与一次活动。\n2. 同一用户每 7 天仅可领取 1 次兑换码，重复参与或重复提交相同内容将无法获得奖励。\n3. 提交后，请保持帖子公开，审核完成前请勿删除、隐藏或设为私密。\n4. 如提交成功超过 10 天仍未收到兑换码，请联系 support@tubepod.app。\n5. TubePod 保留本活动最终解释权。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "🛡 溫馨提示：\n1. 每位用戶僅限參與一次，且自帖子發佈後7天內只能領取1次兌換碼，超過7天後的流量將自動作廢。\n2. 貼文必須設為公開，且不得刪除或設為僅自己可見\n3. 若您提交成功後超過 10 天仍未收到會員資格，可來信聯繫客服（support@byteapps.tech）查詢，工作中難免有所疏漏，敬請見諒與理解\n4. 活動最終解釋權歸 TubePod 所有"
+            "state" : "needs_review",
+            "value" : "📌 活動說明\n\n1. 每位使用者僅限參與一次活動。\n2. 同一位使用者每 7 天僅可領取 1 次兌換碼，重複參與或重複提交相同內容將無法獲得獎勵。\n3. 送出申請後，請保持貼文為公開狀態，並於審核完成前勿刪除、隱藏或設為私人。\n4. 若送出申請超過 10 天仍未收到兌換碼，請聯絡 support@tubepod.app。\n5. TubePod 保留本活動最終解釋權。"
           }
         }
       }
@@ -1584,79 +1584,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teile deine TubePod-Erfahrung in sozialen Medien. Nach Genehmigung erhältst du TubePod Premium kostenlos (Dauer des Abonnements hängt von der Beliebtheit des Inhalts ab, bis hin zur lebenslangen Nutzung).\n\n📌 Belohnungsregeln:\n🎁 Beitrag erfüllt die Anforderungen → 1 Monat Premium\n🔥 Likes ≥ 50 und Aufrufe ≥ 750 → 1 Jahr Premium\n🏆 Likes ≥ 100 und Aufrufe ≥ 1500 → Lebenslang Premium"
+            "value" : "Teile deine TubePod-Erfahrung und erhalte nach erfolgreicher Prüfung TubePod Premium kostenlos.\n\nJe besser dein Beitrag abschneidet, desto größer ist deine Belohnung – bis hin zu Premium auf Lebenszeit!\n\n⸻\n\n🏆 Belohnungen\n\n🎉 Veröffentliche einen qualifizierten Beitrag → 1 Monat Premium\n\n🔥 50+ Likes & 750+ Aufrufe → 1 Jahr Premium\n\n🏆 100+ Likes & 1.500+ Aufrufe → Premium auf Lebenszeit"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Share your TubePod experience on social media. Once approved, you'll receive TubePod Premium for free (membership duration depends on content popularity, up to lifetime).\n\n📌 Reward Rules:\n🎁 Post meets requirements → 1-month Premium\n🔥 Likes ≥ 50 and views ≥ 750 → Get 1 year Premium\n🏆 Likes ≥ 100 and views ≥ 1500 → Get Lifetime Premium"
+            "value" : "Share your TubePod experience and get TubePod Premium for free after your submission is approved.\n\nThe better your content performs, the bigger the reward — up to Lifetime Premium!\n\n⸻\n\n🏆 Rewards\n\n🎉 Publish a qualifying post → 1 Month Premium\n\n🔥 50+ Likes & 750+ Views → 1 Year Premium\n\n🏆 100+ Likes & 1,500+ Views → Lifetime Premium"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comparte tu experiencia con TubePod en redes sociales. Una vez aprobada, recibirás TubePod Premium gratis (la duración de la membresía depende de la popularidad del contenido, hasta membresía de por vida).\n\n📌 Reglas de recompensa:\n🎁 Publicación que cumpla los requisitos → 1 mes de Premium\n🔥 Me gusta ≥ 50 y vistas ≥ 750 → 1 año Premium\n🏆 Me gusta ≥ 100 y vistas ≥ 1500 → Premium de por vida"
+            "value" : "Comparte tu experiencia con TubePod y obtén TubePod Premium gratis una vez que tu participación sea aprobada.\n\nCuanto mejor sea el rendimiento de tu contenido, ¡mayor será tu recompensa! Puedes obtener hasta Premium de por vida.\n\n⸻\n\n🏆 Recompensas\n\n🎉 Publica contenido que cumpla con los requisitos → 1 mes de Premium\n\n🔥 50+ Me gusta y 750+ visualizaciones → 1 año de Premium\n\n🏆 100+ Me gusta y 1,500+ visualizaciones → Premium de por vida"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comparte tu experiencia con TubePod en redes sociales. Una vez aprobada, recibirás TubePod Premium gratis (la duración de la membresía depende de la popularidad del contenido, hasta membresía de por vida).\n\n📌 Reglas de recompensa:\n🎁 Publicación que cumpla los requisitos → 1 mes de Premium\n🔥 Me gusta ≥ 50 y vistas ≥ 750 → 1 año Premium\n🏆 Me gusta ≥ 100 y vistas ≥ 1500 → Premium de por vida"
+            "value" : "Comparte tu experiencia con TubePod y obtén TubePod Premium gratis una vez que tu participación sea aprobada.\n\nCuanto mejor sea el rendimiento de tu contenido, ¡mayor será tu recompensa! Puedes obtener hasta Premium de por vida.\n\n⸻\n\n🏆 Recompensas\n\n🎉 Publica contenido que cumpla con los requisitos → 1 mes de Premium\n\n🔥 50+ Me gusta y 750+ visualizaciones → 1 año de Premium\n\n🏆 100+ Me gusta y 1,500+ visualizaciones → Premium de por vida"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partagez votre expérience avec TubePod sur les réseaux sociaux. Une fois votre publication approuvée, vous recevrez gratuitement l’abonnement TubePod Premium (la durée dépend de la popularité de votre contenu, jusqu’à un accès à vie).\n\n📌 Règles de récompense：\n🎁 Publication conforme → 1 mois d’abonnement Premium\n🔥 Likes ≥ 50 et vues ≥ 750 → 1 an Premium offert\n🏆 Likes ≥ 100 et vues ≥ 1500 → Premium à vie offert"
+            "value" : "Partagez votre expérience avec TubePod et obtenez TubePod Premium gratuitement une fois votre participation approuvée.\n\nPlus votre contenu est performant, plus votre récompense est intéressante — jusqu’à un accès Premium à vie !\n\n⸻\n\n🏆 Récompenses\n\n🎉 Publiez un contenu conforme → 1 mois de Premium\n\n🔥 50+ J’aime & 750+ vues → 1 an de Premium\n\n🏆 100+ J’aime & 1 500+ vues → Premium à vie"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "SNSでTubePodの体験を共有すると、審査に通過した場合、TubePod Premiumを無料で獲得できます（会員期間は投稿の人気度に応じて、最長で永久会員となります）。\n\n📌 報酬ルール：\n🎁 条件を満たした投稿 → 1ヶ月のPremium\n🔥 いいね ≥ 50 かつ閲覧数 ≥ 750 → 1年間のPremium\n🏆 いいね ≥ 100 かつ閲覧数 ≥ 1500 → 生涯Premium"
+            "value" : "TubePod の使用体験をシェアして、審査に通過すると TubePod Premium を無料でプレゼント！\n\n投稿の反響が大きいほど、最大で Lifetime Premium（永久 Premium） を獲得できます！\n\n⸻\n\n🏆 特典\n\n🎉 条件を満たした投稿 → Premium 1か月\n\n🔥 50件以上の「いいね」＆ 750回以上の閲覧 → Premium 1年\n\n🏆 100件以上の「いいね」＆ 1,500回以上の閲覧 → Lifetime Premium（永久 Premium）"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "TubePod 사용 후기를 소셜미디어에 공유하세요. 승인되면 TubePod Premium을 무료로 받을 수 있습니다 (회원 기간은 콘텐츠 인기 수준에 따라 다르며 최대 평생 이용 가능).\n\n📌 보상 규칙:\n🎁 기준을 충족한 게시물 → 1개월 Premium\n🔥 좋아요 ≥ 50 및 조회수 ≥ 750 → 1년 Premium 증정\n🏆 좋아요 ≥ 100 및 조회수 ≥ 1500 → 평생 Premium 증정"
+            "value" : "TubePod 사용 후기를 공유하고 심사를 통과하면 TubePod Premium을 무료로 받을 수 있습니다.\n\n콘텐츠의 반응이 좋을수록 더 큰 보상을 받을 수 있으며, 최대 평생 Premium까지 받을 수 있습니다!\n\n⸻\n\n🏆 리워드\n\n🎉 조건을 충족하는 게시물을 등록하면 → Premium 1개월\n\n🔥 좋아요 50개 이상 & 조회수 750회 이상 → Premium 1년\n\n🏆 좋아요 100개 이상 & 조회수 1,500회 이상 → 평생 Premium"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kongsikan pengalaman anda menggunakan TubePod di media sosial. Setelah diluluskan, anda akan menerima TubePod Premium secara percuma (tempoh keahlian bergantung pada populariti kandungan, sehingga keahlian seumur hidup).\n\n📌 Peraturan Ganjaran:\n🎁 Siaran memenuhi syarat → Premium 1 bulan\n🔥 Suka ≥ 50 dan tontonan ≥ 750 → 1 tahun Premium\n🏆 Suka ≥ 100 dan tontonan ≥ 1500 → Premium Seumur Hidup"
+            "value" : "Kongsi pengalaman anda menggunakan TubePod dan dapatkan TubePod Premium secara percuma selepas penyertaan anda diluluskan.\n\nLagi baik prestasi kandungan anda, lagi besar ganjarannya — sehingga Premium Seumur Hidup!\n\n⸻\n\n🏆 Ganjaran\n\n🎉 Terbitkan kandungan yang memenuhi syarat → Premium 1 Bulan\n\n🔥 50+ Likes & 750+ Tontonan → Premium 1 Tahun\n\n🏆 100+ Likes & 1,500+ Tontonan → Premium Seumur Hidup"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe sua experiência com o TubePod nas redes sociais. Após aprovação, você receberá o TubePod Premium gratuitamente (a duração da assinatura depende da popularidade do conteúdo, podendo chegar à vitalícia).\n\n📌 Regras de Recompensa:\n🎁 Publicação válida → 1 mês de Premium\n🔥  Curtidas ≥ 50 e visualizações ≥ 750 → 1 ano de Premium\n🏆 Curtidas ≥ 100 e visualizações ≥ 1500 → Premium Vitalício"
+            "value" : "Compartilhe sua experiência com o TubePod e receba TubePod Premium gratuitamente após a aprovação da sua participação.\n\nQuanto melhor o desempenho do seu conteúdo, maior será sua recompensa — até Premium Vitalício!\n\n⸻\n\n🏆 Recompensas\n\n🎉 Publique um conteúdo que atenda aos requisitos → 1 mês de Premium\n\n🔥 50+ curtidas & 750+ visualizações → 1 ano de Premium\n\n🏆 100+ curtidas & 1.500+ visualizações → Premium Vitalício"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe sua experiência com o TubePod nas redes sociais. Após aprovação, você receberá o TubePod Premium gratuitamente (a duração da assinatura depende da popularidade do conteúdo, podendo chegar à vitalícia).\n\n📌 Regras de Recompensa:\n🎁 Publicação válida → 1 mês de Premium\n🔥  Curtidas ≥ 50 e visualizações ≥ 750 → 1 ano de Premium\n🏆 Curtidas ≥ 100 e visualizações ≥ 1500 → Premium Vitalício"
+            "value" : "Compartilhe sua experiência com o TubePod e receba TubePod Premium gratuitamente após a aprovação da sua participação.\n\nQuanto melhor o desempenho do seu conteúdo, maior será sua recompensa — até Premium Vitalício!\n\n⸻\n\n🏆 Recompensas\n\n🎉 Publique um conteúdo que atenda aos requisitos → 1 mês de Premium\n\n🔥 50+ curtidas & 750+ visualizações → 1 ano de Premium\n\n🏆 100+ curtidas & 1.500+ visualizações → Premium Vitalício"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe sua experiência com o TubePod nas redes sociais. Após aprovação, você receberá o TubePod Premium gratuitamente (a duração da assinatura depende da popularidade do conteúdo, podendo chegar à vitalícia).\n\n📌 Regras de Recompensa:\n🎁 Publicação válida → 1 mês de Premium\n🔥  Curtidas ≥ 50 e visualizações ≥ 750 → 1 ano de Premium\n🏆 Curtidas ≥ 100 e visualizações ≥ 1500 → Premium Vitalício"
+            "value" : "Compartilhe sua experiência com o TubePod e receba TubePod Premium gratuitamente após a aprovação da sua participação.\n\nQuanto melhor o desempenho do seu conteúdo, maior será sua recompensa — até Premium Vitalício!\n\n⸻\n\n🏆 Recompensas\n\n🎉 Publique um conteúdo que atenda aos requisitos → 1 mês de Premium\n\n🔥 50+ curtidas & 750+ visualizações → 1 ano de Premium\n\n🏆 100+ curtidas & 1.500+ visualizações → Premium Vitalício"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "在社交平台分享你的 TubePod 使用体验，通过审核后，即可获得免费 TubePod Premium（会员时长视内容热度而定，最长可达终身）！\n\n📌 奖励规则说明：\n🎁 成功发布符合要求的帖子 → 赠送 1个月会员\n🔥 点赞 ≥ 50 且view≥ 750 → 赠送 1年会员 \n🏆 点赞 ≥ 100  且view≥ 1500  → 赠送终身会员"
+            "state" : "needs_review",
+            "value" : "分享你的 TubePod 使用体验，通过审核即可免费获得 TubePod Premium。\n\n内容表现越好，奖励越丰厚，最高可获得终身 Premium！\n\n⸻\n\n🏆 活动奖励\n\n🎉 成功发布符合要求的内容 → 赠送 1 个月 Premium\n\n🔥 50+ 点赞 & 750+ 浏览量 → 赠送 1 年 Premium\n\n🏆 100+ 点赞 & 1500+ 浏览量 → 赠送终身 Premium"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "在社交平台分享你的 TubePod 使用體驗，通過審核後，即可免費獲得 TubePod Premium（會員時長依內容熱度而定，最長可享終身會員）！\n\n📌 獎勵規則說明：\n🎁 成功發佈符合要求的貼文 → 贈送 1 個月會員\n🔥 點讚 ≥ 50 且 view ≥ 750 → 贈送 1年會員 \n🏆 點讚 ≥ 100 且 view ≥ 1500 → 贈送終身會員"
+            "state" : "needs_review",
+            "value" : "分享你的 TubePod 使用體驗，通過審核即可免費獲得 TubePod Premium。\n\n內容表現越好，獎勵越豐富，最高可獲得終身 Premium！\n\n⸻\n\n🏆 活動獎勵\n\n🎉 成功發布符合活動規範的內容 → 1 個月 Premium\n\n🔥 50+ 個讚 & 750+ 次瀏覽 → 1 年 Premium\n\n🏆 100+ 個讚 & 1500+ 次瀏覽 → 終身 Premium"
           }
         }
       }
@@ -1667,79 +1667,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veröffentliche ein originelles Kurzvideo (mindestens 10 Sekunden) oder einen Beitrag mit mindestens 3 Screenshots über TubePod auf deiner bevorzugten Social-Media-Plattform (z. B. TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line oder RedNote).\n\nDein Beitrag muss den folgenden Satz enthalten: „Lade TubePod aus dem App Store herunter und genieße deine Lieblingsmusik mit einem werbefreien YouTube-Erlebnis!“\n\nDein Beitrag sollte die TubePod-App-Oberfläche und Screenshots aus dem App Store deutlich zeigen. Der Inhalt muss original sein. Wenn Reposts, Plagiate, offensichtlich minderwertige Inhalte oder groß angelegte Like-Tauschaktivitäten festgestellt werden, wird die Einreichung disqualifiziert.\n\nNach der Veröffentlichung kopiere den Link zu deinem Beitrag oder deinem Profil.\n\nFülle unten deine Informationen aus und sende sie ab.\n\nNach der Genehmigung (in der Regel innerhalb einer Woche) senden wir dir den Premium-Code per E-Mail. Nur originelle, klare und hochwertige Inhalte werden genehmigt. Einsendungen, die die Anforderungen nicht erfüllen, erhalten keine Belohnung."
+            "value" : "Veröffentliche einen originellen Beitrag über TubePod auf einer beliebigen Social-Media-Plattform, z. B. TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE oder Xiaohongshu (RED). Videos müssen mindestens 10 Sekunden lang sein, Bildbeiträge müssen mindestens 3 Screenshots enthalten.\n\nTeile deine Erfahrungen mit TubePod und erwähne Funktionen wie kostenlos Musik hören und werbefreie YouTube-Wiedergabe. Wir empfehlen außerdem, Hashtags wie #TubePod #YouTubeMusic #MusicApp #YouTube zu verwenden.\n\nDein Beitrag muss die TubePod-App sowie die App-Store-Seite deutlich zeigen. Der Inhalt muss vollständig original sein. Kopierte, plagierte oder qualitativ minderwertige Inhalte sowie betrügerische Aktivitäten (z. B. gegenseitiges Liken oder künstliches Erhöhen von Aufrufen) führen zur Disqualifikation.\n\nNachdem dein Beitrag veröffentlicht wurde, kopiere den Link zu deinem Beitrag oder deinem Profil.\n\nGib anschließend den Link zu deinem Beitrag (oder Profil) sowie deine E-Mail-Adresse ein und sende deine Teilnahme ab.\n\nWir prüfen deine Einsendung innerhalb von etwa 7 Tagen. Nach erfolgreicher Prüfung erhältst du deinen Premium-Einlösecode per E-Mail. Nur originelle Inhalte, die den Teilnahmebedingungen entsprechen, sind für eine Belohnung qualifiziert."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Post an original short video (at least 10 seconds) or a post with at least 3 screenshots about TubePod on your favorite social media platform (such as TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line, or RedNote).\n\nYour post must include the following sentence:“Download TubePod from the App Store and enjoy your favorite music with an ad-free YouTube experience!”\n\nYour post should clearly showcase the TubePod app interface and App Store screenshots. The content must be original. If any reposting, plagiarism, obvious low-quality content, or large-scale like-exchange activity is detected, the submission will be disqualified.\n\nAfter posting, copy your post link or profile link.\n\nFill in your information below and submit.\n\nOnce approved (typically within one week), we’ll send the Premium code to your email. Only original, clear, and high-quality content will be approved. Submissions that don’t meet the requirements will not receive rewards."
+            "value" : "Publish original TubePod content on any social platform, such as TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE, or Xiaohongshu (RED). Videos must be at least 10 seconds, or image posts must include at least 3 screenshots.\n\nShare your experience using TubePod and mention features like free music streaming and ad-free YouTube playback. We also recommend including hashtags such as #TubePod #YouTubeMusic #MusicApp #YouTube.\n\nYour post must clearly show the TubePod app interface and its App Store page. Content must be original. Copied, plagiarized, low-quality content, or any fraudulent behavior (including like-for-like engagement) will result in disqualification.\n\nAfter publishing, copy the link to your post or your profile.\n\nFill in your post (or profile) link and email address below, then submit your application.\n\nWe’ll review your submission within approximately 7 days. If approved, your Premium redemption code will be sent to your email. Only original content that meets the campaign requirements is eligible for rewards."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publica un video corto original (de al menos 10 segundos) o una publicación con al menos 3 capturas de pantalla sobre TubePod en tu plataforma de redes sociales favorita (como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line o RedNote).\n\nTu publicación debe incluir la siguiente frase: “Descarga TubePod desde el App Store y disfruta de tu música favorita con una experiencia de YouTube sin anuncios”.\n\nTu publicación debe mostrar claramente la interfaz de la aplicación TubePod y las capturas de pantalla del App Store. El contenido debe ser original. Si se detecta cualquier reenvío, plagio, contenido de baja calidad u actividad masiva de intercambio de “me gusta”, la participación será descalificada.\n\nDespués de publicar, copia el enlace de tu publicación o tu perfil.\n\nCompleta tu información a continuación y envíala.\n\nUna vez aprobado (normalmente en el plazo de una semana), te enviaremos el código Premium por correo electrónico. Solo se aprobará contenido original, claro y de alta calidad. Las presentaciones que no cumplan con los requisitos no recibirán recompensas."
+            "value" : "Publica contenido original sobre TubePod en cualquier red social, como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE o Xiaohongshu (RED). Los videos deben durar al menos 10 segundos, o las publicaciones con imágenes deben incluir al menos 3 capturas de pantalla.\n\nComparte tu experiencia usando TubePod y menciona funciones como escuchar música gratis y reproducción de YouTube sin anuncios. También te recomendamos usar hashtags como #TubePod #YouTubeMusic #MusicApp #YouTube.\n\nTu publicación debe mostrar claramente la interfaz de TubePod y su página en la App Store. Todo el contenido debe ser original. El contenido copiado, plagiado, de baja calidad o cualquier actividad fraudulenta (como el intercambio de “Me gusta”) será descalificado.\n\nDespués de publicar, copia el enlace de tu publicación o de tu perfil.\n\nIngresa el enlace de tu publicación (o perfil) y tu correo electrónico a continuación, luego envía tu solicitud.\n\nRevisaremos tu participación en un plazo aproximado de 7 días. Si es aprobada, recibirás tu código de canje de Premium por correo electrónico. Solo el contenido original que cumpla con los requisitos de la campaña será elegible para recibir recompensas."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publica un video corto original (de al menos 10 segundos) o una publicación con al menos 3 capturas de pantalla sobre TubePod en tu plataforma de redes sociales favorita (como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line o RedNote).\n\nTu publicación debe incluir la siguiente frase: “Descarga TubePod desde el App Store y disfruta de tu música favorita con una experiencia de YouTube sin anuncios”.\n\nTu publicación debe mostrar claramente la interfaz de la aplicación TubePod y las capturas de pantalla del App Store. El contenido debe ser original. Si se detecta cualquier reenvío, plagio, contenido de baja calidad u actividad masiva de intercambio de “me gusta”, la participación será descalificada.\n\nDespués de publicar, copia el enlace de tu publicación o tu perfil.\n\nCompleta tu información a continuación y envíala.\n\nUna vez aprobado (normalmente en el plazo de una semana), te enviaremos el código Premium por correo electrónico. Solo se aprobará contenido original, claro y de alta calidad. Las presentaciones que no cumplan con los requisitos no recibirán recompensas."
+            "value" : "Publica contenido original sobre TubePod en cualquier red social, como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE o Xiaohongshu (RED). Los videos deben durar al menos 10 segundos, o las publicaciones con imágenes deben incluir al menos 3 capturas de pantalla.\n\nComparte tu experiencia usando TubePod y menciona funciones como escuchar música gratis y reproducción de YouTube sin anuncios. También te recomendamos usar hashtags como #TubePod #YouTubeMusic #MusicApp #YouTube.\n\nTu publicación debe mostrar claramente la interfaz de TubePod y su página en la App Store. Todo el contenido debe ser original. El contenido copiado, plagiado, de baja calidad o cualquier actividad fraudulenta (como el intercambio de “Me gusta”) será descalificado.\n\nDespués de publicar, copia el enlace de tu publicación o de tu perfil.\n\nIngresa el enlace de tu publicación (o perfil) y tu correo electrónico a continuación, luego envía tu solicitud.\n\nRevisaremos tu participación en un plazo aproximado de 7 días. Si es aprobada, recibirás tu código de canje de Premium por correo electrónico. Solo el contenido original que cumpla con los requisitos de la campaña será elegible para recibir recompensas."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publiez une vidéo originale (d’au moins 10 secondes) ou un post avec au moins 3 captures d’écran sur TubePod sur votre plateforme sociale préférée (telles que TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line ou RedNote).\n\nVotre publication doit inclure la phrase suivante : « Téléchargez TubePod depuis l’App Store et profitez de votre musique préférée sans publicité sur YouTube ! »\n\nVotre publication doit clairement présenter l’interface de l’application TubePod et des captures d’écran de l’App Store. Le contenu doit être original. Si un repost, un plagiat, un contenu de faible qualité ou des échanges massifs de likes sont détectés, la soumission sera disqualifiée.\n\nAprès la publication, copiez le lien de votre publication ou celui de votre profil.\n\nRemplissez vos informations ci-dessous et soumettez-les.\n\nUne fois approuvé (généralement sous une semaine), nous vous enverrons le code Premium par e-mail. Seul un contenu original, clair et de haute qualité sera approuvé. Les soumissions qui ne répondent pas aux exigences ne recevront pas de récompense."
+            "value" : "Publiez un contenu original sur TubePod sur la plateforme de votre choix (TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE ou Xiaohongshu/RED). Les vidéos doivent durer au moins 10 secondes, ou les publications doivent contenir au moins 3 captures d’écran.\n\nPartagez votre expérience avec TubePod en mettant en avant des fonctionnalités comme l’écoute gratuite de musique et la lecture YouTube sans publicité. Nous vous recommandons également d’ajouter les hashtags #TubePod #YouTubeMusic #MusicApp #YouTube.\n\nVotre publication doit clairement montrer l’interface de TubePod ainsi que sa page sur l’App Store. Le contenu doit être entièrement original. Les contenus copiés, plagiés, de faible qualité ou toute tentative de fraude (échange de likes, achat de vues, etc.) entraîneront une disqualification.\n\nUne fois votre publication en ligne, copiez le lien de votre publication ou de votre profil.\n\nRenseignez ensuite le lien de votre publication (ou de votre profil) ainsi que votre adresse e-mail, puis envoyez votre participation.\n\nVotre participation sera examinée sous 7 jours environ. Si elle est approuvée, votre code Premium sera envoyé par e-mail. Seuls les contenus originaux respectant les règles de la campagne pourront être récompensés."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "お気に入りのソーシャルメディアプラットフォーム（TikTok、Instagram、Facebook、YouTube、X、Threads、Bluesky、Line、RedNote など）で、TubePod に関するオリジナルのショート動画（10 秒以上）または 3 枚以上のスクリーンショットを含む投稿をしてください。\n\n投稿には次の文章を含める必要があります：「App Store から TubePod をダウンロードして、お気に入りの音楽を無料で聴き、広告なしの YouTube 体験を楽しもう！」\n\n投稿では TubePod アプリのインターフェースと App Store のスクリーンショットを明確に示す必要があります。コンテンツはオリジナルでなければなりません。転載、盗用、明らかに低品質なコンテンツ、大規模な「いいね」交換活動などが検出された場合、応募は失格となります。\n\n投稿後、投稿リンクまたはプロフィールリンクをコピーしてください。\n\n以下に情報を入力して送信してください。\n\n承認されると（通常は 1 週間以内）、Premium コードをメールでお送りします。オリジナルで明確かつ高品質なコンテンツのみが承認されます。要件を満たさない提出物は報酬を受け取れません。"
+            "value" : "TikTok、Instagram、Facebook、YouTube、X、Threads、Bluesky、LINE、小紅書（RED）など、お好きなSNSで TubePod に関するオリジナルコンテンツを投稿してください（動画は 10秒以上、画像投稿は 3枚以上）。\n\nTubePod を使った感想や体験を紹介し、無料で音楽を楽しめること や 広告なしで YouTube を再生できること などの特徴を含めてください。また、#TubePod #YouTubeMusic #MusicApp #YouTube などのハッシュタグの利用をおすすめします。\n\n投稿には TubePod アプリの画面と App Store ページがはっきり表示されている必要があります。内容は必ずオリジナルである必要があります。転載・盗用・低品質なコンテンツ、不正な「いいね」や相互いいねなどの行為が確認された場合は、参加資格を取り消します。\n\n投稿後、投稿URLまたはプロフィールURLをコピーしてください。\n\n下記フォームに投稿（またはプロフィール）のURLとメールアドレスを入力し、送信してください。\n\n通常 約7日以内 に審査を行います。承認された場合は、Premium 引き換えコードをメールでお送りします。キャンペーン条件を満たしたオリジナルコンテンツのみが特典の対象となります。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "좋아하는 소셜 미디어 플랫폼(TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line 또는 RedNote 등)에 TubePod에 대한 오리지널 짧은 동영상(10초 이상) 또는 스크린샷 3장 이상이 포함된 게시물을 올리세요.\n\n게시물에는 다음 문장을 포함해야 합니다: “App Store에서 TubePod를 다운로드하여 좋아하는 음악을 무료로 듣고 광고 없는 YouTube 경험을 즐기세요!”\n\n게시물에는 TubePod 앱 인터페이스와 App Store 스크린샷이 명확히 표시되어야 합니다. 콘텐츠는 반드시 원본이어야 합니다. 재게시, 표절, 명백히 저품질 콘텐츠 또는 대규모 좋아요 교환 활동이 감지되면 제출이 실격 처리됩니다.\n\n게시 후 게시물 링크 또는 프로필 링크를 복사하세요.\n\n아래에 정보를 입력하고 제출하세요.\n\n승인되면(일반적으로 1주 이내) Premium 코드를 이메일로 보내드립니다. 원본, 명확하고 고품질의 콘텐츠만 승인됩니다. 요구 사항을 충족하지 않는 제출물은 보상을 받을 수 없습니다."
+            "value" : "TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE 또는 샤오홍슈(RED) 등 원하는 SNS에 TubePod에 대한 원본 콘텐츠를 게시하세요. (동영상은 10초 이상, 이미지 게시물은 최소 3장의 스크린샷을 포함해야 합니다.)\n\nTubePod 사용 경험을 공유하고, 무료 음악 감상과 광고 없는 YouTube 재생 등의 특징을 소개해 주세요. 또한 #TubePod #YouTubeMusic #MusicApp #YouTube 등의 해시태그를 함께 사용하는 것을 권장합니다.\n\n게시물에는 TubePod 앱 화면과 App Store 페이지가 명확하게 포함되어야 합니다. 모든 콘텐츠는 반드시 본인이 직접 제작한 원본이어야 합니다. 복사·도용·저품질 콘텐츠 또는 맞좋아요, 조회수 조작 등 부정행위가 확인될 경우 참여가 취소됩니다.\n\n게시물을 등록한 후 게시물 링크 또는 프로필 링크를 복사하세요.\n\n아래에 게시물(또는 프로필) 링크와 이메일 주소를 입력한 후 제출해 주세요.\n\n제출된 콘텐츠는 약 7일 이내에 심사됩니다. 심사를 통과하면 Premium 교환 코드가 이메일로 발송됩니다. 캠페인 규정을 충족하는 원본 콘텐츠만 리워드 대상이 됩니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Siarkan video pendek asli (sekurang-kurangnya 10 saat) atau siaran dengan sekurang-kurangnya 3 tangkapan skrin tentang TubePod di platform media sosial kegemaran anda (seperti TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line atau RedNote).\n\nSiaran anda mesti mengandungi ayat berikut: “Muat turun TubePod dari App Store dan nikmati muzik kegemaran anda dengan pengalaman YouTube tanpa iklan!”\n\nSiaran anda harus memaparkan dengan jelas antara muka aplikasi TubePod dan tangkapan skrin App Store. Kandungan mestilah asli. Jika sebarang perkongsian semula, plagiat, kandungan berkualiti rendah yang jelas, atau aktiviti pertukaran suka secara besar-besaran dikesan, penyertaan akan dibatalkan.\n\nSelepas menyiarkan, salin pautan siaran atau pautan profil anda.\n\nIsikan maklumat anda di bawah dan hantar.\n\nSebaik sahaja diluluskan (biasanya dalam masa seminggu), kami akan menghantar kod Premium ke e-mel anda. Hanya kandungan asli, jelas dan berkualiti tinggi akan diluluskan. Penyerahan yang tidak memenuhi keperluan tidak akan menerima ganjaran."
+            "value" : "Terbitkan kandungan asal tentang TubePod di mana-mana platform media sosial seperti TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE atau Xiaohongshu (RED). Video mestilah sekurang-kurangnya 10 saat, atau hantaran gambar mestilah mengandungi sekurang-kurangnya 3 tangkapan skrin.\n\nKongsikan pengalaman anda menggunakan TubePod dan nyatakan ciri seperti mendengar muzik secara percuma serta main balik YouTube tanpa iklan. Anda juga digalakkan menggunakan hashtag seperti #TubePod #YouTubeMusic #MusicApp #YouTube.\n\nHantaran anda mesti memaparkan dengan jelas antara muka aplikasi TubePod dan halaman App Store. Semua kandungan mestilah asli. Kandungan yang disalin, diplagiat, berkualiti rendah atau melibatkan aktiviti penipuan seperti pertukaran likes akan dibatalkan penyertaannya.\n\nSelepas menerbitkan hantaran, salin pautan hantaran atau pautan profil anda.\n\nMasukkan pautan hantaran (atau profil) serta alamat e-mel anda di bawah, kemudian hantar penyertaan anda.\n\nKami akan menyemak penyertaan anda dalam tempoh kira-kira 7 hari. Jika diluluskan, kod penebusan Premium akan dihantar ke e-mel anda. Hanya kandungan asal yang memenuhi syarat kempen layak menerima ganjaran."
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publique um vídeo curto original (com pelo menos 10 segundos) ou uma publicação com pelo menos 3 capturas de ecrã sobre o TubePod na sua plataforma de redes sociais favorita (como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line ou RedNote).\n\nA sua publicação deve incluir a seguinte frase: “Transfira o TubePod da App Store e desfrute da sua música favorita com uma experiência do YouTube sem anúncios!”\n\nA sua publicação deve mostrar claramente a interface da aplicação TubePod e as capturas de ecrã da App Store. O conteúdo deve ser original. Caso seja detetado qualquer reenvio, plágio, conteúdo de baixa qualidade ou atividade massiva de troca de gostos, a submissão será desqualificada.\n\nDepois de publicar, copie o link da sua publicação ou do seu perfil.\n\nPreencha as suas informações abaixo e envie.\n\nUma vez aprovado (normalmente dentro de uma semana), enviaremos o código Premium para o seu e-mail. Apenas conteúdo original, claro e de alta qualidade será aprovado. Submissões que não cumpram os requisitos não receberão recompensas."
+            "value" : "Publique um conteúdo original sobre o TubePod em qualquer rede social, como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE ou Xiaohongshu (RED). Os vídeos devem ter pelo menos 10 segundos, ou as publicações com imagens devem conter no mínimo 3 capturas de tela.\n\nCompartilhe sua experiência com o TubePod e destaque recursos como ouvir música gratuitamente e reprodução do YouTube sem anúncios. Também recomendamos usar hashtags como #TubePod #YouTubeMusic #MusicApp #YouTube.\n\nSua publicação deve mostrar claramente a interface do aplicativo TubePod e sua página na App Store. Todo o conteúdo deve ser original. Conteúdos copiados, plagiados, de baixa qualidade ou qualquer tentativa de fraude (como troca de curtidas) resultarão em desclassificação.\n\nApós publicar, copie o link da sua publicação ou do seu perfil.\n\nPreencha abaixo o link da publicação (ou do perfil) e seu endereço de e-mail, depois envie sua participação.\n\nAnalisaremos sua participação em aproximadamente 7 dias. Se aprovada, seu código de resgate do Premium será enviado por e-mail. Apenas conteúdos originais que atendam aos requisitos da campanha poderão receber recompensas."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publique um vídeo curto original (com pelo menos 10 segundos) ou uma publicação com pelo menos 3 capturas de ecrã sobre o TubePod na sua plataforma de redes sociais favorita (como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line ou RedNote).\n\nA sua publicação deve incluir a seguinte frase: “Transfira o TubePod da App Store e desfrute da sua música favorita com uma experiência do YouTube sem anúncios!”\n\nA sua publicação deve mostrar claramente a interface da aplicação TubePod e as capturas de ecrã da App Store. O conteúdo deve ser original. Caso seja detetado qualquer reenvio, plágio, conteúdo de baixa qualidade ou atividade massiva de troca de gostos, a submissão será desqualificada.\n\nDepois de publicar, copie o link da sua publicação ou do seu perfil.\n\nPreencha as suas informações abaixo e envie.\n\nUma vez aprovado (normalmente dentro de uma semana), enviaremos o código Premium para o seu e-mail. Apenas conteúdo original, claro e de alta qualidade será aprovado. Submissões que não cumpram os requisitos não receberão recompensas."
+            "value" : "Publique um conteúdo original sobre o TubePod em qualquer rede social, como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE ou Xiaohongshu (RED). Os vídeos devem ter pelo menos 10 segundos, ou as publicações com imagens devem conter no mínimo 3 capturas de tela.\n\nCompartilhe sua experiência com o TubePod e destaque recursos como ouvir música gratuitamente e reprodução do YouTube sem anúncios. Também recomendamos usar hashtags como #TubePod #YouTubeMusic #MusicApp #YouTube.\n\nSua publicação deve mostrar claramente a interface do aplicativo TubePod e sua página na App Store. Todo o conteúdo deve ser original. Conteúdos copiados, plagiados, de baixa qualidade ou qualquer tentativa de fraude (como troca de curtidas) resultarão em desclassificação.\n\nApós publicar, copie o link da sua publicação ou do seu perfil.\n\nPreencha abaixo o link da publicação (ou do perfil) e seu endereço de e-mail, depois envie sua participação.\n\nAnalisaremos sua participação em aproximadamente 7 dias. Se aprovada, seu código de resgate do Premium será enviado por e-mail. Apenas conteúdos originais que atendam aos requisitos da campanha poderão receber recompensas."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publique um vídeo curto original (com pelo menos 10 segundos) ou uma publicação com pelo menos 3 capturas de ecrã sobre o TubePod na sua plataforma de redes sociais favorita (como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, Line ou RedNote).\n\nA sua publicação deve incluir a seguinte frase: “Transfira o TubePod da App Store e desfrute da sua música favorita com uma experiência do YouTube sem anúncios!”\n\nA sua publicação deve mostrar claramente a interface da aplicação TubePod e as capturas de ecrã da App Store. O conteúdo deve ser original. Caso seja detetado qualquer reenvio, plágio, conteúdo de baixa qualidade ou atividade massiva de troca de gostos, a submissão será desqualificada.\n\nDepois de publicar, copie o link da sua publicação ou do seu perfil.\n\nPreencha as suas informações abaixo e envie.\n\nUma vez aprovado (normalmente dentro de uma semana), enviaremos o código Premium para o seu e-mail. Apenas conteúdo original, claro e de alta qualidade será aprovado. Submissões que não cumpram os requisitos não receberão recompensas."
+            "value" : "Publique um conteúdo original sobre o TubePod em qualquer rede social, como TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, LINE ou Xiaohongshu (RED). Os vídeos devem ter pelo menos 10 segundos, ou as publicações com imagens devem conter no mínimo 3 capturas de tela.\n\nCompartilhe sua experiência com o TubePod e destaque recursos como ouvir música gratuitamente e reprodução do YouTube sem anúncios. Também recomendamos usar hashtags como #TubePod #YouTubeMusic #MusicApp #YouTube.\n\nSua publicação deve mostrar claramente a interface do aplicativo TubePod e sua página na App Store. Todo o conteúdo deve ser original. Conteúdos copiados, plagiados, de baixa qualidade ou qualquer tentativa de fraude (como troca de curtidas) resultarão em desclassificação.\n\nApós publicar, copie o link da sua publicação ou do seu perfil.\n\nPreencha abaixo o link da publicação (ou do perfil) e seu endereço de e-mail, depois envie sua participação.\n\nAnalisaremos sua participação em aproximadamente 7 dias. Se aprovada, seu código de resgate do Premium será enviado por e-mail. Apenas conteúdos originais que atendam aos requisitos da campanha poderão receber recompensas."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "在你喜欢的社交平台（如 TikTok、Instagram、Facebook、YouTube、X、Threads、Bluesky、Line或小红书）发布一条关于 TubePod 的原创短视频（不少于 10 秒）或图文内容（包含至少 3 张截图）。\n\n内容需包含以下文字：从 App Store 下载 TubePod，免费听你喜爱的音乐，畅享无广告的 YouTube 体验！\n\n帖子需清晰展示 TubePod App 使用界面和 App Store 截图，内容必须为原创。若存在搬运、抄袭、明显低质量内容，或大面积互相换赞等欺诈行为，将取消资格。\n\n发布成功后，复制你的帖子链接或主页链接。\n\n在下方填写信息并提交：\n\n我们将在审核通过后（约一周内）通过邮箱发送 Premium 兑换码。仅原创且高质量的内容可通过审核，不符合要求的提交将无法获得奖励。"
+            "state" : "needs_review",
+            "value" : "在任意社交平台（如 TikTok、Instagram、Facebook、YouTube、X、Threads、Bluesky、LINE 或小红书）发布关于 TubePod 的原创内容（视频不少于 10 秒，或图文包含至少 3 张图片）。\n\n分享你的 TubePod 使用体验，并提及免费听音乐、无广告 YouTube 播放等特色，建议添加 #TubePod #YouTubeMusic #MusicApp #YouTube 等相关标签。\n\n帖子需清晰展示 TubePod App 使用界面及 App Store 页面，内容必须为原创。搬运、抄袭、低质量内容、刷赞或互赞等违规行为将取消活动资格。\n\n发布成功后，复制你的帖子链接或个人主页链接。\n\n在下方填写帖子（或主页）链接及邮箱地址，然后提交申请。\n\n我们将在约 7 天内完成审核。审核通过后，Premium 兑换码将发送至你的邮箱。仅符合活动规则的原创内容可获得奖励。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "在你喜歡的社交平台（如 TikTok、Instagram、Facebook、YouTube、X、Threads、Bluesky、Line 或小紅書）發布一則關於 TubePod 的原創短影片（不少於 10 秒）或圖文內容（包含至少 3 張截圖）。\n\n內容必須包含以下文字：「從 App Store 下載 TubePod，免費聽你喜愛的音樂，暢享無廣告的 YouTube 體驗！」\n\n你的貼文應清楚展示 TubePod 應用介面與 App Store 截圖。內容必須為原創。如果發現有搬運、抄襲、明顯低品質內容或大規模互相按讚等行為，提交將被取消資格。\n\n發布後，複製你的貼文連結或個人主頁連結。\n\n在下方填寫你的資訊並提交。\n\n審核通過後（通常在一週內），我們會透過電子郵件向你發送 Premium 兌換碼。只有原創、清晰且高品質的內容才會被批准。不符合要求的提交將無法獲得獎勵。"
+            "state" : "needs_review",
+            "value" : "在任意社群平台（如 TikTok、Instagram、Facebook、YouTube、X、Threads、Bluesky、LINE 或小紅書）發布一則關於 TubePod 的原創內容（影片不少於 10 秒，或圖文包含至少 3 張圖片）。\n\n分享你的 TubePod 使用體驗，並介紹免費聽音樂、無廣告 YouTube 播放等特色，建議加上 #TubePod #YouTubeMusic #MusicApp #YouTube 等相關 Hashtag。\n\n貼文需清楚展示 TubePod App 使用畫面及 App Store 頁面，內容必須為原創。若有搬運、抄襲、低品質內容、洗讚、互讚或其他違規行為，將取消活動資格。\n\n發布完成後，複製你的貼文連結或個人頁面連結。\n\n在下方填寫貼文（或個人頁面）連結及電子郵件，確認無誤後送出申請。\n\n我們將於約 7 天內完成審核。審核通過後，Premium 兌換碼將寄送至你的電子郵件。僅符合活動規範的原創內容可獲得獎勵。"
           }
         }
       }
