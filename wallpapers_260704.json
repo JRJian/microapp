@@ -276,6 +276,18 @@
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/23.zip",
             "requires_subscription": true,
             "audio_enabled": false
+        },
+        {
+            "id": 24,
+            "title": {
+                "en": "Snowy Night Forest Trail",
+                "zh": "雪夜林踪",
+                "fr": "Traces dans la nuit enneigée"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/jkoavib3h4wNHRKFFgXWt.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/24.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
         }
     ]
 }
