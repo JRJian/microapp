@@ -1,4 +1,4 @@
-{
+ {
     "version": 7,
     "wallpapers": [
         {
@@ -286,6 +286,30 @@
             },
             "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/jkoavib3h4wNHRKFFgXWt.png",
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/24.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
+            "id": 25,
+            "title": {
+                "en": "Animated Village Scene",
+                "zh": "动画乡村场景",
+                "fr": "Scène de village animée"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/AuPGzI6UMaxOjpGN5pzLU.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/25.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
+            "id": 26,
+            "title": {
+                "en": "Animated Lotus",
+                "zh": "动态莲花",
+                "fr": "Lotus animé"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/NZfPZA0sDAfzBev8rfbKs.png",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/26.zip",
             "requires_subscription": true,
             "audio_enabled": false
         }
