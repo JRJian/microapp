@@ -324,6 +324,18 @@
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/26.zip",
             "requires_subscription": true,
             "audio_enabled": false
+        },
+        {
+            "id": 28,
+            "title": {
+                "en": "Sunlit Mist",
+                "zh": "晨雾流光",
+                "fr": "Brume ensoleillée"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/6ed6bd22-f89a-4ddd-bfdb-b5676f92a5b1.jpg",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
         }
     ]
 }
