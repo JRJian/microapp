@@ -74,18 +74,6 @@
             "audio_enabled": false
         },
         {
-            "id": 6,
-            "title": {
-                "en": "Skyscrapers Nightscape",
-                "zh": "摩天大楼 夜景",
-                "fr": "Gratte-ciels en vue nocturne"
-            },
-            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/55AB95FB-D590-4861-8DFA-E05C406FC184.heif",
-            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/6.zip",
-            "requires_subscription": true,
-            "audio_enabled": true
-        },
-        {
             "id": 7,
             "title": {
                 "en": "Summer Swimming Pool",
@@ -98,6 +86,30 @@
             "audio_enabled": false
         },
         {
+            "id": 29,
+            "title": {
+                "en": "Cyberpunk Metropolis Future City",
+                "zh": "赛博都市 未来城",
+                "fr": "Métropole cyberpunk du futur"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/Fh13aDT1kghfYLmhm4xEU.jpg",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/29.zip",
+            "requires_subscription": true,
+            "audio_enabled": true
+        },
+        {
+            "id": 6,
+            "title": {
+                "en": "Skyscrapers Nightscape",
+                "zh": "摩天大楼 夜景",
+                "fr": "Gratte-ciels en vue nocturne"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/55AB95FB-D590-4861-8DFA-E05C406FC184.heif",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/6.zip",
+            "requires_subscription": true,
+            "audio_enabled": true
+        },
+        {
             "id": 8,
             "title": {
                 "en": "Los Angeles City Night View",
@@ -106,6 +118,18 @@
             },
             "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/E944BD49-F31E-47B7-9527-A9EBB208517A.heif",
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/8.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
+            "id": 30,
+            "title": {
+                "en": "Arctic Blue River",
+                "zh": "冰原 蓝河",
+                "fr": "Rivière Bleue Arctique"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/FJ0ej13YLmhm4xEUFF.jpg",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/30.zip",
             "requires_subscription": true,
             "audio_enabled": false
         },
