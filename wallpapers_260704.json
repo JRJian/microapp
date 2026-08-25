@@ -95,7 +95,7 @@
             "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/Fh13aDT1kghfYLmhm4xEU.jpg",
             "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/29.zip",
             "requires_subscription": true,
-            "audio_enabled": true
+            "audio_enabled": false
         },
         {
             "id": 6,
