@@ -38,6 +38,18 @@
             "audio_enabled": false
         },
         {
+            "id": 27001,
+            "title": {
+                "en": "Ringed Dawn",
+                "zh": "环星晨曦",
+                "fr": "Aube Anneauée"
+            },
+            "preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/23b172d60a734238bd7bd048070f0cdd.jpg",
+            "download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/27001.zip",
+            "requires_subscription": true,
+            "audio_enabled": false
+        },
+        {
             "id": 3,
             "title": {
                 "en": "Cartoon Bedroom",
