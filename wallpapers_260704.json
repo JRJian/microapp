@@ -301,6 +301,30 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 12001,
+		"title": {
+			"en": "Lantern Alley Neon City",
+			"zh": "深夜食堂 霓虹城",
+			"fr": "Izakaya Brume Ville Moderne"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/12001.jpg",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/12001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 12002,
+		"title": {
+			"en": "Misty Forest Sunlight",
+			"zh": "晨雾森林 微光",
+			"fr": "Forêt brumeuse Lumière"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/12002.jpg",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/12002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 13,
 		"title": {
 			"en": "Nebula",
