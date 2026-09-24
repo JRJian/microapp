@@ -37,6 +37,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 27011,
+		"title": {
+			"en": "Purple Wave Digital Art",
+			"zh": "紫色 波浪 数字 艺术",
+			"fr": "Vague pourpre – Art digital"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/27011.jpg",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/27011.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 27001,
 		"title": {
 			"en": "Ringed Dawn",
