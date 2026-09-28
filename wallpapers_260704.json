@@ -241,6 +241,78 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 29003,
+		"title": {
+			"en": "Neon City Skyline",
+			"zh": "霓虹城市天际线",
+			"fr": "Horizon urbain au néon"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/29003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/29003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 29004,
+		"title": {
+			"en": "Vibrant Cyberpunk Cityscape",
+			"zh": "绚丽赛博朋克都市",
+			"fr": "Ville cyberpunk vibrante"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/29004.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/29004.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 29005,
+		"title": {
+			"en": "City at Night Cyberpunk 2077",
+			"zh": "赛博朋克2077 城市之夜",
+			"fr": "Ville nocturne de Cyberpunk 2077"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/29005.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/29005.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 29006,
+		"title": {
+			"en": "Futuristic Purple Sunset",
+			"zh": "未来都市 紫色日落",
+			"fr": "Coucher de soleil violet futuriste"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/29006.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/29006.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 29007,
+		"title": {
+			"en": "Cyberpunk Japan",
+			"zh": "赛博朋克日本",
+			"fr": "Japon cyberpunk"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/29007.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/29007.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 29008,
+		"title": {
+			"en": "Futuristic Neon City View",
+			"zh": "未来霓虹都市风光",
+			"fr": "Vue urbaine futuriste au néon"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/29008.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/29008.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 6,
 		"title": {
 			"en": "Skyscrapers Nightscape",
@@ -261,6 +333,30 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/E944BD49-F31E-47B7-9527-A9EBB208517A.heif",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/8.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 8001,
+		"title": {
+			"en": "New York City Nightscape",
+			"zh": "纽约城市夜景",
+			"fr": "Paysage nocturne de New York"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/8001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/8001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 8002,
+		"title": {
+			"en": "Scenic City Skyline",
+			"zh": "城市天际风光",
+			"fr": "Panorama urbain pittoresque"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/8002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/8002.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -313,6 +409,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 91002,
+		"title": {
+			"en": "Mystical Snowy Valley",
+			"zh": "秘境雪谷",
+			"fr": "Vallée enneigée mystique"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/91002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/91002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 10,
 		"title": {
 			"en": "Cyberpunk gas station",
@@ -357,6 +465,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/12001.jpg",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/12001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 12003,
+		"title": {
+			"en": "Neon Coffee Shop",
+			"zh": "霓虹咖啡店",
+			"fr": "Café au néon"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/12003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/12003.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -505,6 +625,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 18002,
+		"title": {
+			"en": "Slow Days Wallsflow",
+			"zh": "悠闲时光 Wallsflow",
+			"fr": "Jours paisibles Wallsflow"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/18002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/18002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 19,
 		"title": {
 			"en": "Cat",
@@ -553,6 +685,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 20002,
+		"title": {
+			"en": "Pikachu with Flaming Sword",
+			"zh": "皮卡丘与烈焰之剑",
+			"fr": "Pikachu à l’épée flamboyante"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/20002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/20002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 21,
 		"title": {
 			"en": "Water Train Station",
@@ -597,6 +741,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/BA7avib3h4wNHRKFFgXWt.png",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/23.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 23001,
+		"title": {
+			"en": "Office",
+			"zh": "办公室",
+			"fr": "Bureau"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/23001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/23001.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
