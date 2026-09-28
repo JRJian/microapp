@@ -13,6 +13,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 1001,
+		"title": {
+			"en": "Majestic Sunrise",
+			"zh": "壮丽日出",
+			"fr": "Lever de soleil majestueux"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/1001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/1001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 2,
 		"title": {
 			"en": "Crystal Clear Seawater",
@@ -157,6 +169,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 4001,
+		"title": {
+			"en": "Coastal View",
+			"zh": "海岸风光",
+			"fr": "Vue côtière"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/4001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/4001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 5,
 		"title": {
 			"en": "Blue Sky  White Clouds",
@@ -277,6 +301,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 91001,
+		"title": {
+			"en": "Majestic Mountain Sunset",
+			"zh": "壮丽山间日落",
+			"fr": "Majestueux coucher de soleil en montagne"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/91001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/91001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 10,
 		"title": {
 			"en": "Cyberpunk gas station",
@@ -349,6 +385,30 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 13001,
+		"title": {
+			"en": "Mount Fuji",
+			"zh": "富士山",
+			"fr": "Mont Fuji"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/13001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/13001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 13002,
+		"title": {
+			"en": "Time Lapse",
+			"zh": "延时光影",
+			"fr": "Accéléré"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/13002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/13002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 14,
 		"title": {
 			"en": "Autumn Leaves",
@@ -361,6 +421,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 14001,
+		"title": {
+			"en": "Aesthetic Orange Autumn Forest",
+			"zh": "唯美橙色秋林",
+			"fr": "Forêt automnale aux teintes orangées"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/14001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/14001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 15,
 		"title": {
 			"en": "Super Mario Pixel",
@@ -369,6 +441,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/fgGhFCxqa1gisHKXmaiPt.png",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/15.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 15001,
+		"title": {
+			"en": "Minecraft Winter Night",
+			"zh": "我的世界 冬日夜晚",
+			"fr": "Nuit d’hiver dans Minecraft"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/15001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/15001.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -409,6 +493,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 18001,
+		"title": {
+			"en": "Cat Watching Sunset",
+			"zh": "猫咪看日落",
+			"fr": "Chat contemplant le coucher du soleil"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/18001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/18001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 19,
 		"title": {
 			"en": "Cat",
@@ -421,6 +517,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 19001,
+		"title": {
+			"en": "Adorable Black Cat",
+			"zh": "可爱小黑猫",
+			"fr": "Adorable chat noir"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/19001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/19001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 20,
 		"title": {
 			"en": "Red Eyes Anime Girl",
@@ -429,6 +537,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/j7mrl6UCS3CSLISkZ76IL.png",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/20.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 20001,
+		"title": {
+			"en": "Miles Morales in Action",
+			"zh": "迈尔斯·莫拉莱斯 动感出击",
+			"fr": "Miles Morales en action"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/20001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/20001.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -513,6 +633,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/6ed6bd22-f89a-4ddd-bfdb-b5676f92a5b1.jpg",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 28001,
+		"title": {
+			"en": "Tranquil River Landscape",
+			"zh": "宁静河畔风光",
+			"fr": "Paysage fluvial paisible"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28001.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	}]
