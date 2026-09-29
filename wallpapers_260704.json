@@ -57,7 +57,7 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/27011.jpg",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/27011.zip",
-		"requires_subscription": true,
+		"requires_subscription": false,
 		"audio_enabled": false
 	},
 	{
@@ -69,7 +69,7 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/23b172d60a734238bd7bd048070f0cdd.jpg",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/27001.zip",
-		"requires_subscription": true,
+		"requires_subscription": false,
 		"audio_enabled": false
 	},
 	{
@@ -145,6 +145,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 25001,
+		"title": {
+			"en": "Coastal Village Serenity",
+			"zh": "海滨村落 宁静时光",
+			"fr": "Sérénité d’un village côtier"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/25001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/25001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 3,
 		"title": {
 			"en": "Cartoon Bedroom",
@@ -177,6 +189,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/4001.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/4001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 4002,
+		"title": {
+			"en": "Glowing Neon Waterfall",
+			"zh": "流光霓虹 瀑布",
+			"fr": "Cascade lumineuse au néon"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/4002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/4002.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -529,6 +553,30 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 13003,
+		"title": {
+			"en": "Tranquil Island Under Pink Moon",
+			"zh": "粉月之下 静谧小岛",
+			"fr": "Île paisible sous une lune rose"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/13003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/13003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 13004,
+		"title": {
+			"en": "Aurora Borealis Over Trees",
+			"zh": "林梢之上 北极光",
+			"fr": "Aurore boréale au-dessus des arbres"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/13004.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/13004.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 14,
 		"title": {
 			"en": "Autumn Leaves",
@@ -637,6 +685,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 18003,
+		"title": {
+			"en": "Cat Waiting At Sunset Bus Stop Lofi",
+			"zh": "猫咪候车 日落 Lo-Fi",
+			"fr": "Chat attendant à l’arrêt de bus au couchant Lo-Fi"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/18003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/18003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 19,
 		"title": {
 			"en": "Cat",
@@ -697,6 +757,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 20003,
+		"title": {
+			"en": "Rei Ayanami in Blue",
+			"zh": "绫波丽 蓝色幻境",
+			"fr": "Rei Ayanami en bleu"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/20003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/20003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 21,
 		"title": {
 			"en": "Water Train Station",
@@ -729,6 +801,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/oorF6Jci35qSLdbnWGFgc.png",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/22.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 22001,
+		"title": {
+			"en": "Luffy Poster",
+			"zh": "路飞 悬赏海报",
+			"fr": "Affiche de Luffy"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/22001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/22001.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -801,6 +885,30 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28001.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 28002,
+		"title": {
+			"en": "Alangaller",
+			"zh": "四叶草 彩虹晴空",
+			"fr": "Trèfles et arc-en-ciel"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 28003,
+		"title": {
+			"en": "Moonlit Sakura River",
+			"zh": "月映樱花 溪流",
+			"fr": "Rivière aux cerisiers sous la lune"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28003.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	}]
