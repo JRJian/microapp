@@ -61,6 +61,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 27012,
+		"title": {
+			"en": "Colorful Abstract Glow",
+			"zh": "缤纷抽象 流光",
+			"fr": "Lueur abstraite multicolore"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/27012.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/27012.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 27001,
 		"title": {
 			"en": "Ringed Dawn",
@@ -189,6 +201,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/4001.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/4001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 4003,
+		"title": {
+			"en": "Scenic Coastal View",
+			"zh": "旖旎 海岸风光",
+			"fr": "Vue pittoresque sur la côte"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/4003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/4003.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -337,6 +361,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 29009,
+		"title": {
+			"en": "Neon City at Night",
+			"zh": "霓虹都市 夜景",
+			"fr": "Ville au néon la nuit"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/29009.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/29009.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 6,
 		"title": {
 			"en": "Skyscrapers Nightscape",
@@ -469,6 +505,30 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 11001,
+		"title": {
+			"en": "Cozy Cabin Night",
+			"zh": "温馨木屋 夜色",
+			"fr": "Nuit douillette au chalet"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/11001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/11001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 11002,
+		"title": {
+			"en": "Lo-Fi Home Garden Scene",
+			"zh": "Lo-Fi 庭院风光",
+			"fr": "Jardin de maison Lo-Fi"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/11002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/11002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 12,
 		"title": {
 			"en": "Rainy Forest Store",
@@ -573,6 +633,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/13004.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/13004.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 13005,
+		"title": {
+			"en": "Mystical Northern Lights",
+			"zh": "梦幻 北极光",
+			"fr": "Aurores boréales mystiques"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/13005.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/13005.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -865,6 +937,30 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 26001,
+		"title": {
+			"en": "Sunlit Blue Hydrangeas",
+			"zh": "阳光下的 蓝色绣球",
+			"fr": "Hortensias bleus au soleil"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/26001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/26001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 26002,
+		"title": {
+			"en": "Blooming Cherry Blossoms",
+			"zh": "盛放 樱花",
+			"fr": "Cerisiers en pleine floraison"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/26002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/26002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 28,
 		"title": {
 			"en": "Sunlit Mist",
@@ -909,6 +1005,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28003.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 28004,
+		"title": {
+			"en": "Serene Sakura River",
+			"zh": "静谧樱花 河流",
+			"fr": "Rivière paisible aux cerisiers en fleurs"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28004.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28004.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	}]
