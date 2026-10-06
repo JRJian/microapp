@@ -81,7 +81,7 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/23b172d60a734238bd7bd048070f0cdd.jpg",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/27001.zip",
-		"requires_subscription": false,
+		"requires_subscription": true,
 		"audio_enabled": false
 	},
 	{
