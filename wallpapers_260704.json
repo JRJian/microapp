@@ -37,6 +37,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 2001,
+		"title": {
+			"en": "Glowing Blue and Purple Jellyfish",
+			"zh": "流光水母 蓝紫幻境",
+			"fr": "Méduses lumineuses bleues et violettes"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/2001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/2001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 27,
 		"title": {
 			"en": "Starry Pines",
@@ -169,6 +181,30 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 25002,
+		"title": {
+			"en": "Lazy Days on Green Hills",
+			"zh": "白云青丘 悠闲时光",
+			"fr": "Douces journées sur les collines verdoyantes"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/25002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/25002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 25003,
+		"title": {
+			"en": "Moonlit Forest Fairytale Night",
+			"zh": "月下林间 童话夜色",
+			"fr": "Nuit féerique dans la forêt au clair de lune"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/25003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/25003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 3,
 		"title": {
 			"en": "Cartoon Bedroom",
@@ -213,6 +249,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/4003.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/4003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 4004,
+		"title": {
+			"en": "Coastal Dawn Gentle Waves",
+			"zh": "晨光海岸 碧海轻波",
+			"fr": "Aube côtière et douces vagues"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/4004.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/4004.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -573,6 +621,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/12002.jpg",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/12002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 12004,
+		"title": {
+			"en": "Misty Mountains Quiet Forest",
+			"zh": "雾漫青山 静谧森林",
+			"fr": "Montagnes brumeuses et forêt paisible"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/12004.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/12004.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -961,6 +1021,42 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 26003,
+		"title": {
+			"en": "Plum Blossoms by Ancient Eaves",
+			"zh": "古檐疏影 梅花初绽",
+			"fr": "Fleurs de prunier sous les toits anciens"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/26003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/26003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 26004,
+		"title": {
+			"en": "Pink Blossom Tree Under Blue Skies",
+			"zh": "晴空花树 粉色春光",
+			"fr": "Arbre en fleurs roses sous un ciel bleu"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/26004.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/26004.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 26005,
+		"title": {
+			"en": "Summer Watermelon Garden",
+			"zh": "夏日瓜田 清甜时光",
+			"fr": "Pastèques au jardin en été"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/26005.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/26005.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 28,
 		"title": {
 			"en": "Sunlit Mist",
@@ -1017,6 +1113,30 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28004.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28004.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 28005,
+		"title": {
+			"en": "Summer Breeze Over Green Meadows",
+			"zh": "蓝天草原 清风夏日",
+			"fr": "Brise estivale sur les prairies verdoyantes"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28005.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28005.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 28006,
+		"title": {
+			"en": "Summer Wind Chimes Beneath Green Leaves",
+			"zh": "绿荫风铃 夏日轻响",
+			"fr": "Carillons estivaux sous les feuilles vertes"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28006.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28006.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	}]
