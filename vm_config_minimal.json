@@ -8,7 +8,6 @@
     "pt": "Atualização disponível\nHavia alguns problemas com a pesquisa do YouTube na versão anterior. Lançamos uma atualização para corrigi-los. Atualize o app para a versão mais recente.",
     "hi": "अपडेट उपलब्ध है\nपिछले संस्करण में YouTube खोज में कुछ समस्याएँ थीं। हमने उन्हें ठीक करने के लिए एक अपडेट जारी किया है। कृपया ऐप को नवीनतम संस्करण में अपडेट करें।"
   },
-  "goodVersionMinCode": 610,
   "networkTimeout": 10,
   "trialNextPlayCount": 5,
   "trialNextPlaySeconds": 720,
