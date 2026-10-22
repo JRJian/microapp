@@ -1,6 +1,6 @@
 {
   "freeSeconds": 150,
-  "launchAlertEnabled": 1,
+  "launchAlertEnabled": 0,
   "launchAlertMessage": {
     "en": "Update Available\nThere were some issues with YouTube search in the previous version. We’ve released an update to fix them. Please update the app to the latest version.",
     "zh-Hans": "有新版本可用\n旧版本的 YouTube 搜索存在一些问题。我们已发布更新修复这些问题，请将 App 更新到最新版本。",

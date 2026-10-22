@@ -37,18 +37,6 @@
 		"audio_enabled": false
 	},
 	{
-		"id": 2001,
-		"title": {
-			"en": "Glowing Blue and Purple Jellyfish",
-			"zh": "流光水母 蓝紫幻境",
-			"fr": "Méduses lumineuses bleues et violettes"
-		},
-		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/2001.webp",
-		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/2001.zip",
-		"requires_subscription": true,
-		"audio_enabled": false
-	},
-	{
 		"id": 27,
 		"title": {
 			"en": "Starry Pines",
@@ -70,6 +58,18 @@
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/27011.jpg",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/27011.zip",
 		"requires_subscription": false,
+		"audio_enabled": false
+	},
+	{
+		"id": 2001,
+		"title": {
+			"en": "Glowing Blue and Purple Jellyfish",
+			"zh": "流光水母 蓝紫幻境",
+			"fr": "Méduses lumineuses bleues et violettes"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/2001.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/2001.zip",
+		"requires_subscription": true,
 		"audio_enabled": false
 	},
 	{
