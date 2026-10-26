@@ -157,6 +157,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 27007,
+		"title": {
+			"en": "Lanterns in an Endless Castle",
+			"zh": "无尽楼阁 灯火幽深",
+			"fr": "Lanternes dans un château sans fin"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/27007.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/27007.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 25,
 		"title": {
 			"en": "Animated Village Scene",
@@ -201,6 +213,30 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/25003.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/25003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 25004,
+		"title": {
+			"en": "Sunlit Sakura Street",
+			"zh": "樱花街角 午后晴光",
+			"fr": "Rue des cerisiers ensoleillée"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/25004.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/25004.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 25005,
+		"title": {
+			"en": "Petals Along the Old Street",
+			"zh": "古街落樱",
+			"fr": "Pétales dans la vieille rue"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/25005.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/25005.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -529,6 +565,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 91003,
+		"title": {
+			"en": "Alpine Lake in Summer",
+			"zh": "夏日山湖",
+			"fr": "Lac alpin en été"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/91003.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/91003.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 10,
 		"title": {
 			"en": "Cyberpunk gas station",
@@ -709,6 +757,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 13006,
+		"title": {
+			"en": "Astronaut on a Starlit Path",
+			"zh": "宇航员 星河漫步",
+			"fr": "Astronaute sur un chemin étoilé"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/13006.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/13006.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 14,
 		"title": {
 			"en": "Autumn Leaves",
@@ -729,6 +789,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/14001.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/14001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 14002,
+		"title": {
+			"en": "Moonlit Crimson Maple",
+			"zh": "月下红枫",
+			"fr": "Érable pourpre au clair de lune"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/14002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/14002.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -853,6 +925,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 19002,
+		"title": {
+			"en": "Little Bunny in a Golden Meadow",
+			"zh": "花田里的小白兔",
+			"fr": "Petit lapin dans une prairie dorée"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/19002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/19002.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 20,
 		"title": {
 			"en": "Red Eyes Anime Girl",
@@ -901,6 +985,42 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 20004,
+		"title": {
+			"en": "Swordsman Beneath Moonlit Blossoms",
+			"zh": "月下花影 剑客",
+			"fr": "Épéiste sous les fleurs au clair de lune"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/20004.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/20004.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 20005,
+		"title": {
+			"en": "Awakening of the Shadow Monarch",
+			"zh": "暗影君王 觉醒",
+			"fr": "Éveil du monarque des ombres"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/20005.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/20005.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 20006,
+		"title": {
+			"en": "Legion of the Shadow Realm",
+			"zh": "暗影军团",
+			"fr": "Légion du royaume des ombres"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/20006.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/20006.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 21,
 		"title": {
 			"en": "Water Train Station",
@@ -945,6 +1065,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/22001.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/22001.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 22002,
+		"title": {
+			"en": "Luffy’s Lightning Strike",
+			"zh": "路飞 雷霆一击",
+			"fr": "Frappe foudroyante de Luffy"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/22002.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/22002.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	},
@@ -1057,6 +1189,18 @@
 		"audio_enabled": false
 	},
 	{
+		"id": 26006,
+		"title": {
+			"en": "White Blossoms Against Blue Skies",
+			"zh": "晴空白花",
+			"fr": "Fleurs blanches sur ciel bleu"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/26006.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/26006.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
 		"id": 28,
 		"title": {
 			"en": "Sunlit Mist",
@@ -1137,6 +1281,18 @@
 		},
 		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28006.webp",
 		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28006.zip",
+		"requires_subscription": true,
+		"audio_enabled": false
+	},
+	{
+		"id": 28007,
+		"title": {
+			"en": "Celestial Blue Blossom Tree",
+			"zh": "星夜蓝花树",
+			"fr": "Arbre aux fleurs bleues sous les étoiles"
+		},
+		"preview_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/images/28007.webp",
+		"download_url": "https://pub-16d2ddddca394d64a4b578f772102cc0.r2.dev/assets/28007.zip",
 		"requires_subscription": true,
 		"audio_enabled": false
 	}]
