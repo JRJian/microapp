@@ -1,5 +1,5 @@
 {
-  "freeSeconds": 150,
+  "freeSeconds": 120,
   "launchAlertEnabled": 0,
   "launchAlertMessage": {
     "en": "Update Available\nThere were some issues with YouTube search in the previous version. We’ve released an update to fix them. Please update the app to the latest version.",
